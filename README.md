@@ -82,7 +82,7 @@ Internal Consistency: The NFL Fantasy Football App is, for the most part, intern
 
 phone image
 
-External Consistency: The NFL Fantasy Football App is not the only fantasy football app. ESPN and Yahoo also have their own mobile apps. The NFL app is again, for the most part, externally consistent. The roster interface is very similar to ESPN and Yahoo's roster interfaces as all three apps use a list structure to depict the user's roster. In addition, the matchup interface between Yahoo and NFL almost identical. Each of the uer's players are located to the left and right of each other, with their current score in bolded black. The aggregate score of each user's team is located at the top of the page. 
+External Consistency: The NFL Fantasy Football App is not the only fantasy football app. ESPN and Yahoo also have their own mobile apps. The NFL app is again, for the most part, externally consistent. The roster interface is very similar to ESPN and Yahoo's roster interfaces as all three apps use a list structure to depict the user's roster. In addition, the matchup interface between Yahoo and NFL almost identical. Each of the uer's players are located to the left and right of each other, with their current score in bolded black. The aggregate score of each user's team is located at the top of the page. The external consistency of the NFL Fantasy Football App makes the app's usability easier for  users who are familiar with other fantasy football formats.
 
 phone image
 
@@ -93,7 +93,21 @@ phone image of matchup
 
 https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/42310354-a4ee-11e6-ab97-00163ed833e7/2328764250/yahoo-fantasy-sports-screenshot.png
 
+Severity Rating: 1
+
 ## 5: Error Prevention
+
+For many people, the weekend fantasy football league is a big deal, and accidentally dropping or trading away a player could be devastating for a user's team. As such, the NFL Fantasy Football App is designed well to prevent errors. If a user wants to drop a player, the user must confirm the decision when the app asks "Are you sure?". Similarly when adding a player, the user must "confirm add" and drop any players that exceed the roster limit. In addition, the app notifies the user of injured or inactive players on the starting roster with colored icons next to a players name. If a player is out, a yellow "O" sits next to his name, allowing the user to swap out the inactive player for an active one. Injury notifications are a crucial part of error prevention and have saved me multiple times from accidentally playing an inactive player. Another more subtle method of error prevention is by providing score projections for the following weeks of each player. This allows the user to make the best decision on which players to play that week. If a player is projected to score very low, it might be a good idea to put them in reserves. In sum, the app's design and features do a great job of prevently costly user errors. 
+
+phone picture
+
+phone picture 
+
+https://m.fantasy.nfl.com/_next/static/images/edit-2019-6e58f120240b87b6fab2ab46f9e3e2d5.png
+
+The small gray numbers to the right side of each player is a projected score for that week. This error prevention method helps the user avoid playing E.Ebron this week, who will probably score less points than T.Kelce. 
+
+Severity Rating: 1
 
 ## 6: Recognition rather than Recall
 

@@ -11,6 +11,8 @@ I chose to evaluate the NFL Fantasy Football App because it houses a community t
 
 The NFL Fantasy Football App is a mobile application platform for virtual football competition between users. At the beginning of the NFL season in September, users create a league with their friends and family, and create a team by drafting real-world football players. The goal is to create a team that produces good results in the real world, as the outcome of the fantasy football competition is determined by how well a user's players do from week to week. The NFL regular season is 16 weeks long. Each week, users in the fantasy football league match up against other users in the league. At the end of the season, the user with the most wins claims victory, or in some leagues, the top four users enter an elimination playoff. For more information on how Fantasy Football works, see here. http://www.nfl.com/fantasyfootball/story/0ap3000000692955/article/how-to-play-fantasy-football-a-beginners-guide 
 
+![FF Interfaces](https://198285-603693-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2014/08/Fotor0812202634.jpg)
+
 ## Overall Evaluation
 
 description

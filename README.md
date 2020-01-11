@@ -116,7 +116,24 @@ Severity Rating: 1
 
 ## 6: Recognition rather than Recall
 
+The NFL Fantasy Football App does not require much recall from the user at all. The primary instance in which a user needs to remember something is when the user is looking for a specific player in the app database. The app provides an effective search system that does not require the user to recall the specific name of the player. Rather, the user only has to know what position the desired player plays. If the user knows that the desired player is a quarterback, then the user can filter search results for just quarterbacks. The search engine generates a list of players names that are supplemented with logos of the teams they are on and a portrait picture of each player. In addition, at the top of the player search interface is a "Most Added Players" section which offers the user a quick way to add a desired player based on the popularity of the player they are looking for. As such, the user rarely needs to recall specific details about a player to find them. All the user needs to know is what the player's position, what team they play for, or what the player looks like. Overall, the nature of fantasy football does not demand that the user have a good memory, but in the circumstances in which the user must remember something, the app reduces the need to recall with a search system that emphasizes recognition. 
+
+phone pic 
+
+Severity Rating: 1
+
 ## 7: Flexibility and Efficiency of Use
+
+The NFL Fantasy Football App offers a limited amount of features that make the user experience enjoyable and efficient for both expert level users and beginners. For example, when drafting players at the beginning of the season, expert users can analyze the player pool and set their pre-draft order. During the draft, they can assign players to their queue to be auto-drafted during the next round. For beginners, the draft can be intimidating, so the app allows users to complete the draft based on pre-determined rankings by experts. That is, beginners who do not know how to draft can auto-draft their entire team without needing to go through the more complicated process of expert users. 
+
+Another feature that increases the user's efficiency is the optimization function. This function allows the user to auto-generate the best projected roster for a given week without needing to manually switch players in and out of the lineup. Players who want more control over their team are still able to change their roster manually and do not have to optimize their roster based on the app's projected scores. 
+
+http://static.nfl.com/static/content/public/image/fantasy/general/fan_images_league-types.png
+
+
+I believe the app can improve when it comes to flexibility and efficiency of use. Expert users should be able to auto-add potential free agents without needing to monitor their availability status throughout the season. For instance, if I want Mark Ingram on my team, I should be able to tap a function that notifies me of his availability and automatically adds him to my team when possible. Another possible improvement that would make the fantasy football experience easier for beginners is to develop and aggregate rating measure for each player. This single rating will take into account multiple other predictors of success and can serve as a simple guide for beginners who are trying to decide who to put on their team. This experience contrasts the current tedious experience in which users need to analyze players using many statistics such as play time, style of offense, and past perfornance.
+
+Severity Rating: 2
 
 ## 8: Aesthetic and Minimalist Design
 

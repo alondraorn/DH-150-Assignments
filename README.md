@@ -131,11 +131,21 @@ Another feature that increases the user's efficiency is the optimization functio
 http://static.nfl.com/static/content/public/image/fantasy/general/fan_images_league-types.png
 
 
-I believe the app can improve when it comes to flexibility and efficiency of use. Expert users should be able to auto-add potential free agents without needing to monitor their availability status throughout the season. For instance, if I want Mark Ingram on my team, I should be able to tap a function that notifies me of his availability and automatically adds him to my team when possible. Another possible improvement that would make the fantasy football experience easier for beginners is to develop and aggregate rating measure for each player. This single rating will take into account multiple other predictors of success and can serve as a simple guide for beginners who are trying to decide who to put on their team. This experience contrasts the current tedious experience in which users need to analyze players using many statistics such as play time, style of offense, and past perfornance.
+I believe the app can improve when it comes to flexibility and efficiency of use. Expert users should be able to auto-add potential free agents without needing to monitor their availability status throughout the season. For instance, if I want Mark Ingram on my team, I should be able to tap a function that notifies me of his availability and automatically adds him to my team when possible. Another possible improvement that would make the fantasy football experience easier for beginners is to develop and aggregate rating measure for each player. This single rating will take into account multiple other predictors of success and can serve as a simple guide for beginners who are trying to decide who to put on their team. This experience contrasts the current tedious experience in which users need to analyze players using many statistics such as play time, style of offense, and past performance.
 
 Severity Rating: 2
 
 ## 8: Aesthetic and Minimalist Design
+
+Using a white, turqoise, and gray color palette, the NFL Fantasy Football App provides the user with a aethetically acceptable interface. Headings and sections are rectangular with smooth corners and are all in readable font. Colors do not clash and even small text is readable. Player profiles feature light logo backgrounds that do not interfere with the player pictures and add flavor to the interface. 
+
+The design is also quite minimalist, given the amount of information a user needs to be successful in fantasy football. The roster interface provides a picture, name, and total points of each player with  details about the team they play for and their position. The top of the interface shows the user's league record and any win or losss streak he/she might be on. There are options to trade, manage waivers, or add players. The information given on the roster interface is necessary and informative. Some elements such as the player picture may be unnecessary, but without them, the interface lacks spirit. 
+
+The player profile is also minimalist in design. Each player has five summary statistics at the top with information about the latest matchup below. Clicking the "stats" tab allows the user to see more in depth data about that player and his past performances. There are no unnecessary graphics or text. 
+
+Overall, the NFL Fantasy Football App is aethetically acceptable and not too cluttered with information. There may be some room to improve upon the app in this regard such as changing to a richer color palette or reducing the amount of numbers on certain interfaces, but the current state of the app's aesthetics do not undermine the user experience to any noticeable extent. 
+
+Severity Rating: 1
 
 ## 9: Help Users Recognize, Diagnose, and Recover from Errors
 

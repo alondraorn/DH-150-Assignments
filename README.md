@@ -100,6 +100,10 @@ Severity Rating: 1
 
 For many people, the weekend fantasy football league is a big deal, and accidentally dropping or trading away a player could be devastating for a user's team. As such, the NFL Fantasy Football App is designed well to prevent errors. If a user wants to drop a player, the user must confirm the decision when the app asks "Are you sure?". Similarly when adding a player, the user must "confirm add" and drop any players that exceed the roster limit. In addition, the app notifies the user of injured or inactive players on the starting roster with colored icons next to a players name. If a player is out, a yellow "O" sits next to his name, allowing the user to swap out the inactive player for an active one. Injury notifications are a crucial part of error prevention and have saved me multiple times from accidentally playing an inactive player. Another more subtle method of error prevention is by providing score projections for the following weeks of each player. This allows the user to make the best decision on which players to play that week. If a player is projected to score very low, it might be a good idea to put them in reserves. In sum, the app's design and features do a great job of prevently costly user errors. 
 
+
+![FF prevention](https://drive.google.com/uc?id=1FbhoXngM_jgGO1RR_v_XY3ZjkSDSM_tJ)
+
+https://drive.google.com/uc?id=1FbhoXngM_jgGO1RR_v_XY3ZjkSDSM_tJ  
 phone picture
 
 phone picture 

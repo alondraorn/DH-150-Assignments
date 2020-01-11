@@ -145,8 +145,20 @@ The player profile is also minimalist in design. Each player has five summary st
 
 Overall, the NFL Fantasy Football App is aethetically acceptable and not too cluttered with information. There may be some room to improve upon the app in this regard such as changing to a richer color palette or reducing the amount of numbers on certain interfaces, but the current state of the app's aesthetics do not undermine the user experience to any noticeable extent. 
 
+phone image 
+
 Severity Rating: 1
 
 ## 9: Help Users Recognize, Diagnose, and Recover from Errors
 
+The NFL Fantasy Football App does a poor job of notifying, diagnosing, and recovering from system errors. The most common error I ran into when testing was a connection error. Lacking internet service, the app prompts the user with a "Something went wrong" message. This tells the user that there is an error, but does not describe what the error is or how to fix it. This hurts the user experience because this vague message leaves the user uninformed and unable to fix the issue. 
+
+I was unable to trigger other error processing notifications during my testing, but based on what I observed, I believe the app has much room for improvement in this area. For instance, the app should identify what the problem is and suggest concrete steps to fix it. If it is a connection or loading error, it is better that the user knows, so that he/she can try to fix it. The sooner and smoother the user can get past these errors, the sooner he/she can get back to enjoying the app. 
+
+phone image
+
+Severity Rating: 2
+
 ## 10: Help and Documentation
+
+The NFL Fantasy Football App excels when it comes to help and documentation. The app provides basic documents like the terms and conditions and the privacy policy. Further, there is a search system in the settings tab that allows users to ask questions and look up key words. For instance, if a user wants to learn how to add and drop players, he/she can turn to this search system (see below). Also, the home page interface features articles that help users with fantasy football strategies and predictions. Every week, for example, NFL.com publishes recommendations on which players should start and which players should stay in reserves. Overall, the NFL Fantasy Football App provides an abundance of resources for users who have questions about the functionality of the app itself and for users who want to effectively compete in their fantasy football league. 

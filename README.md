@@ -9,7 +9,13 @@ I chose to evaluate the NFL Fantasy Football App because it houses a community t
 
 ## Description
 
-The NFL Fantasy Football App is a mobile application platform for virtual football competition between users. At the beginning of the NFL season in September, users create a league with their friends and family, and create a team by drafting real-world football players. The goal is to create a team that produces good results in the real world, as the outcome of the fantasy football competition is determined by how well a user's players do from week to week. The NFL regular season is 16 weeks long. Each week, users in the fantasy football league match up against other users in the league. At the end of the season, the user with the most wins claims victory, or in some leagues, the top four users enter an elimination playoff. For more information on how Fantasy Football works, see here. http://www.nfl.com/fantasyfootball/story/0ap3000000692955/article/how-to-play-fantasy-football-a-beginners-guide 
+The NFL Fantasy Football App is a mobile application platform for virtual football competition between users. At the beginning of the NFL season in September, users create a league with their friends and family, and create a team by drafting real-world football players. The goal is to create a team that produces good results in the real world, as the outcome of the fantasy football competition is determined by how well a user's players do from week to week. The NFL regular season is 16 weeks long. Each week, users in the fantasy football league match up against other users in the league. At the end of the season, the user with the most wins claims victory, or in some leagues, the top four users enter an elimination playoff. 
+
+The App has many other features that allow the user to analyze a player's past and future performance in order to construct a higher scoring team. User's have access to live in-game highlights and notable NFL news such as injuries or trades. For more information on how Fantasy Football works, see here. http://www.nfl.com/fantasyfootball/story/0ap3000000692955/article/how-to-play-fantasy-football-a-beginners-guide 
+
+
+NFL Fantasy Football can be downloaded as a mobile app or used on a web browser. I will evaluate the usability of the application. This link will allow you to download the app, but it can also be downloaded on the Apple App Store. http://www.nfl.com/mobile/fantasy. This is the link to the browser version of Fantasy Football, but my evluation is on the mobile version. https://fantasy.nfl.com
+
 
 ![FF Interfaces](https://198285-603693-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2014/08/Fotor0812202634.jpg)
 
@@ -27,11 +33,65 @@ description
 
 ## 1: Visibility of System Status
 
+The NFL Fantasy football app does a good job of keeping the user informed on the system status at any given time. Whenever a page is loading or buffering, the universal circular loading sign appears on the center of the screen. Should the connection be poor, a "something went wrong" message accompanied by an exclamation point icon appears on the screen. In addition, the scroll bar on the right side of the screen tells the user where he/she is relative to the bottom of the page. 
+
+When a user is scrolling through league matchups for a certain week, a horizontal line of blue buttons indicates which matchup the user is looking at. That is, if there are 5 matchups in the league, there are five buttons at the bottom that tells the user which matchup is currently on the interface. If a user wants to edit his/her lineup, the up and down arrows next to each player's name let's the user know that the app is currently in edit mode. 
+
+https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e4/50/c9/e450c90a-74f7-f45b-5ae6-c8f3fdf5f172/pr_source.png/300x0w.png
+
+https://images.148apps.com/2014/7/47080/243863/screen568x568-1.jpg
+
+Overall, the visitbility of system status is strong on the NFL Fantasy Football App.
+
+Severity Rating: 1
+
 ## 2: Match Between System and the Real World
+
+While the lack of skeuomorphic design does not threaten the basic functionality of the app, the NFL Fantasy Football App can improve its design by matching its system with real world concepts more often. For example, the roster interface of the app is structured as a list. A user's 10 player team is simply listed from top to bottom, with the player position to the left of the player face. However, this design is not as intuitive as, say, if the roster interface took the form of a football formation. Football fans are familiar with football formations and seeing a roster in a real-life football formation is more intuitive than seeing a roster in a top to bottom list. 
+
+Current Roster Interface:
+https://i0.wp.com/zacharylalich.com/wp-content/uploads/2015/11/Team_Roster_375-5.png
+
+More Skeuomorphic Roster Interface:
+
+https://oyster.ignimgs.com/mediawiki/apis.ign.com/madden-nfl-20/8/88/Madden20-mut-06.jpg?width=1280
+
+The NFL Fantasy Football App excels in its use of conventional language. Using words and abbreviations that members of the sports community are familiar with like "roster", "QB", "TD", etc., the app's diction connects it's systems well to the real world. For example, if a user were to trade a player to another user's team, the app coding would engage in something the average user would not be familiar with. However, the app simply calls this a "trade", something that makes sense to the average football fan. 
+
+phone image
+
+In sum, the NFL Fantasy Football App can do a better job of matching its system with the real world, but it's lack of intuitivity in certain interfaces does not noticeably hinder the user's experience.
+
+Severity Rating: 2
 
 ## 3: User Control and Freedom
 
+The NFL Fantasy Football App's strongest area of design is in the amount of user control and freedom users have when using it. More generally, the user can always back out of player profiles by tapping the X in the top right hand corner of the screen. On other interfaces, users can tap the back arrow located in the top left hand of the screen to return to the previous menu. The five menu tabs at the bottom of the screen allow for quick navigation to different interfaces. This allows the user to travel from one page to a completely different page with one tap, as opposed to having to navigate back out to a master directory and back in to the desired page. 
+
+phone picture
+
+The app excels in offering user control in the player search interface. The user can filter the player search by position, availability of player, season year, projectsion, trends, and present stats. Each player profile provides the players rank, average # of points, % owned, and bye week (the week the player does not play). In addition, the profile provides data on the points scored week to week throughout the season as well as projected points for the rest of the year. These statistical features are critical in Fantasy Football since the goal of the game is to pick the best performing players. As such, user control and freedom is what I appreciate most about the NFL Fantasy Football App's user experience.
+
+phone picture
+
+Severity Rating: 1
+
 ## 4: Consistency and Standards
+
+Internal Consistency: The NFL Fantasy Football App is, for the most part, internally consistent. User profiles always appear as circular pictures with the user's league rank to the upper left hand side of the profile. The user name lies below his/her profile picture with the user's league record to the right. NFL player profiles are also consistent, with their names bolded above their team, position, and number. Some errors with consistency occur when a user wants to back out of certain interfaces. In the player profile interface, the user must tap the "x" in the upper right corner, whereas in the "edit team" screen, the escape button is an arrow in the top left corner. Beyond this minor inconsistency, the app is easy to navigate due to its good overall internal consistency. 
+
+phone image
+
+External Consistency: The NFL Fantasy Football App is not the only fantasy football app. ESPN and Yahoo also have their own mobile apps. The NFL app is again, for the most part, externally consistent. The roster interface is very similar to ESPN and Yahoo's roster interfaces as all three apps use a list structure to depict the user's roster. In addition, the matchup interface between Yahoo and NFL almost identical. Each of the uer's players are located to the left and right of each other, with their current score in bolded black. The aggregate score of each user's team is located at the top of the page. 
+
+phone image
+
+
+https://usabilitygeek.com/wp-content/uploads/2017/09/ux-case-study-espn-8.jpg
+
+phone image of matchup 
+
+https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/42310354-a4ee-11e6-ab97-00163ed833e7/2328764250/yahoo-fantasy-sports-screenshot.png
 
 ## 5: Error Prevention
 

@@ -162,3 +162,5 @@ Severity Rating: 2
 ## 10: Help and Documentation
 
 The NFL Fantasy Football App excels when it comes to help and documentation. The app provides basic documents like the terms and conditions and the privacy policy. Further, there is a search system in the settings tab that allows users to ask questions and look up key words. For instance, if a user wants to learn how to add and drop players, he/she can turn to this search system (see below). Also, the home page interface features articles that help users with fantasy football strategies and predictions. Every week, for example, NFL.com publishes recommendations on which players should start and which players should stay in reserves. Overall, the NFL Fantasy Football App provides an abundance of resources for users who have questions about the functionality of the app itself and for users who want to effectively compete in their fantasy football league. 
+
+Severity Rating: 1

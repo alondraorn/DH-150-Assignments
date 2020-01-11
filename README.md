@@ -1,4 +1,5 @@
-# DH 150 Assignment 01: Heuristic Evaluation of NFL Fantasy Football Mobile App by Josh Mimura
+# DH 150 Assignment 01: 
+# Heuristic Evaluation of the NFL Fantasy Football Mobile App by Josh Mimura
 
 ## Introduction
 

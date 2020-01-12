@@ -16,7 +16,6 @@ The NFL Fantasy Football App is a mobile application platform for virtual footba
 
 The App has many other features that allow the user to analyze a player's past and future performance in order to construct a higher scoring team. User's have access to live in-game highlights and notable NFL news such as injuries or trades. For more information on how Fantasy Football works, see here. [http://www.nfl.com/fantasyfootball/story/0ap3000000692955/article/how-to-play-fantasy-football-a-beginners-guide](http://www.nfl.com/fantasyfootball/story/0ap3000000692955/article/how-to-play-fantasy-football-a-beginners-guide)  
 
-
 NFL Fantasy Football can be downloaded as a mobile app or used on a web browser. I will evaluate the usability of the application. This link will allow you to download the app, but it can also be downloaded on the Apple App Store. [http://www.nfl.com/mobile/fantasy](http://www.nfl.com/mobile/fantasy). This is the link to the browser version of Fantasy Football, but my evluation is on the mobile version. [https://fantasy.nfl.com](https://fantasy.nfl.com)
 
 ![FF Interfaces](https://drive.google.com/uc?id=1f0hLBDNB8QZeTRhHR1js2gMGnBlj1skW)

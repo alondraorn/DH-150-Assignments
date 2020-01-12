@@ -166,4 +166,6 @@ The NFL Fantasy Football App excels when it comes to help and documentation. The
 
 ![FF prevention](https://drive.google.com/uc?id=1sudZ_R67X6RePhH2YxcTkqTKD9aucrJx)
 
-Severity Rating: 1
+One weak point of the mobile app is that it is does not provide introductory materials for completely new users. Users who have no experience with fantasy football will find themselves lost as they are thrown into an interface built for users who already know how fantasy football works. The app could drastically improve its user experience and marketing if it offered a tutorial system or fantasy beginner's guide. 
+
+Severity Rating: 2

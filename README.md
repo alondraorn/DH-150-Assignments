@@ -1,6 +1,8 @@
 # DH 150 Assignment 01: 
 # Heuristic Evaluation of the NFL Fantasy Football Mobile App by Josh Mimura
 
+***
+
 ## Introduction
 
 Every Sunday from September to January, millions of Americans tune into the NFL (National Football League) weekly games to cheer on their favorite teams. Many members of this sports community are involved in a league of their own - fantasy football. Fantasy football is a game in which enthusiastic fans draft and develop real world NFL players to create a virtual football team that competes with other fantasy teams in the fantasy football community. 

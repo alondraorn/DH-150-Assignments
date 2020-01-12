@@ -21,12 +21,7 @@ NFL Fantasy Football can be downloaded as a mobile app or used on a web browser.
 
 ![FF Interfaces](https://drive.google.com/uc?id=1lWNQyeZso_Ui4KX3p34YN6qbFnpRx3F_)
 
-https://drive.google.com/uc?id=1lWNQyeZso_Ui4KX3p34YN6qbFnpRx3F_
-https://drive.google.com/file/d/1lWNQyeZso_Ui4KX3p34YN6qbFnpRx3F_/view?usp=sharing
-
 ![FF Interfaces](https://drive.google.com/uc?id=18LBJhwTj2f4fwWVVyEMSw4B7b0vG4jhB)
-
-https://drive.google.com/file/d/18LBJhwTj2f4fwWVVyEMSw4B7b0vG4jhB/view?usp=sharing
 
 ## Overall Evaluation
 

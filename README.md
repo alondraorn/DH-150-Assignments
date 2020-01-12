@@ -17,8 +17,16 @@ The App has many other features that allow the user to analyze a player's past a
 
 NFL Fantasy Football can be downloaded as a mobile app or used on a web browser. I will evaluate the usability of the application. This link will allow you to download the app, but it can also be downloaded on the Apple App Store. http://www.nfl.com/mobile/fantasy. This is the link to the browser version of Fantasy Football, but my evluation is on the mobile version. https://fantasy.nfl.com
 
+![FF Interfaces](https://drive.google.com/uc?id=1f0hLBDNB8QZeTRhHR1js2gMGnBlj1skW)
 
-![FF Interfaces](https://198285-603693-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2014/08/Fotor0812202634.jpg)
+![FF Interfaces](https://drive.google.com/uc?id=1lWNQyeZso_Ui4KX3p34YN6qbFnpRx3F_)
+
+https://drive.google.com/uc?id=1lWNQyeZso_Ui4KX3p34YN6qbFnpRx3F_
+https://drive.google.com/file/d/1lWNQyeZso_Ui4KX3p34YN6qbFnpRx3F_/view?usp=sharing
+
+![FF Interfaces](https://drive.google.com/uc?id=18LBJhwTj2f4fwWVVyEMSw4B7b0vG4jhB)
+
+https://drive.google.com/file/d/18LBJhwTj2f4fwWVVyEMSw4B7b0vG4jhB/view?usp=sharing
 
 ## Overall Evaluation
 

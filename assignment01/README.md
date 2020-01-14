@@ -134,28 +134,26 @@ The schedule page is almost as confusing. The top of the page has a horizontal b
 
 The audio page is not aethetically pleasing. Podcasts are listed in a top to bottom structure that appears boring and tedious. The bland aethetics of this page detract from the user experience. As previously mentioned, this interface could be benefitted by adding more visual aids and using a more intuitive spatial structure.
 
-![B7](https://drive.google.com/uc?id=1lWNQyeZso_Ui4KX3p34YN6qbFnpRx3F_)
+![B8](https://drive.google.com/uc?id=1lWNQyeZso_Ui4KX3p34YN6qbFnpRx3F_)
+
+The UCLA Bruins app could massively improve in its aesthetic by sticking with a compatible color palette, maintaining internal consistency, and providing only the information necessary in each interface. 
 
 Severity Rating: 3
 
 ## 9: Help Users Recognize, Diagnose, and Recover from Errors
 
-The NFL Fantasy Football App does a poor job of notifying, diagnosing, and recovering from system errors. The most common error I ran into when testing was a connection error. Lacking internet service, the app prompts the user with a "Something went wrong" message. This tells the user that there is an error but does not describe what the error is or how to fix it. This hurts the user experience because this vague message leaves the user uninformed and unable to fix the issue. 
+The UCLA Bruins app does a por job of identifying errors and providing useful steps to solving them. During my testing, I triggered the common connection error by turning off my service, and the app did not notify me of any error. It simply stopped loading and remained on a blank screen. This error process may leave the user confused and unable to solve the problem. A "unable to connect. please reconnect to the internet" message would be much more helpful. I was not able to trigger any other system errors during my testing, but based on what I observed, I believe the app has much room for improvement in this area. It should supplement error messages with a concrete list of steps on how to solve a given error.
 
-![FF prevention](https://drive.google.com/uc?id=1J8h8P4CnwU6nymX5eGZJsCSJ8Pslb-tO)
+![B9](https://drive.google.com/uc?id=1lWNQyeZso_Ui4KX3p34YN6qbFnpRx3F_)
 
-I was unable to trigger other error processing notifications during my testing, but based on what I observed, I believe the app has much room for improvement in this area. For instance, the app should identify what the problem is and suggest concrete steps to fix it. If it is a connection or loading error, it is better that the user knows, so that he/she can try to fix it. 
+The app allows users to recover from function errors such as accidentally subscribing to a specific sport. The user simply has to click the red "x" next the sport to stop subscribing. Overall, the app allows users to recover quickly from user errors, but it does not provide informative feedback when system errors occur. 
+
+![B9](https://drive.google.com/uc?id=1lWNQyeZso_Ui4KX3p34YN6qbFnpRx3F_)
 
 Severity Rating: 2
 
 ## 10: Help and Documentation
 
-The NFL Fantasy Football App excels when it comes to help and documentation. The app provides basic documents like the terms and conditions and the privacy policy. Notably, there is a search system in the settings tab that allows users to ask questions and look up key words. For instance, if a user wants to learn how to add and drop players, he/she can turn to this search system for advice on how to do this (see below). In addition, the home page interface provides articles that help users with fantasy football strategies and predictions. Every week, for example, NFL.com publishes recommendations on which players should start and which players should stay in reserves. Overall, the NFL Fantasy Football App provides an abundance of resources for users who have questions about the functionality of the app itself and for users who want to effectively compete in their fantasy football league.
+The UCLA Bruins app is weak when it comes to help and documentation. The app does not provide basic documents lik the terms and conditions or the privacy policy. There is no search system that allows users to look up keywords or questions. There is no chatbox, FAQ, or contact information for customer support. The lack of user assistance materials makes the app difficult to explore. I found myself not wanting to click on menu options because I did not know what they were or how to use them. This app can drastically improve if it included a user FAQ or contact information for customer support. As of now, the help and documentation aspect of this app is non-existent which hinders the user experience of beginners. 
 
-![FF prevention](https://drive.google.com/uc?id=1IrrpO_nfWcbFzkQL3fDK4M8Nlmhd9fgj)
-
-![FF prevention](https://drive.google.com/uc?id=1sudZ_R67X6RePhH2YxcTkqTKD9aucrJx)
-
-One weak point of the mobile app is that it is does not provide introductory materials for completely new users. Users who have no experience with fantasy football will find themselves lost as they are thrown into an interface built for users who already know how fantasy football works. The app could drastically improve its user experience and marketing if it offered a tutorial system or fantasy beginner's guide. 
-
-Severity Rating: 2
+Severity Rating: 3

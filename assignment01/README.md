@@ -60,43 +60,44 @@ Severity Rating: 2
 
 ## 3: User Control and Freedom
 
-The UCLA Bruins mobile app does a decent job of giving the user control and freedom while navigating its interfaces. The standing menus at the bottom of the screen allows the user to quickly switch back and forth between interfaces with one tap of the screen. Anytime the user opens a sub-menu, he/she can tap the 
+The UCLA Bruins mobile app does a decent job of giving the user control and freedom while navigating its interfaces. The standing menus at the bottom of the screen allows the user to quickly switch back and forth between interfaces with one tap of the screen. Anytime the user opens a sub-menu, he/she can tap the "done" button in the bottom left-hand corner. In every interface is a sidebar menu option in the top left-hand corner that lets the user quickly navigate to other pages such as "Account manager login" and "Fan zone". The audio interface allows the user switch between "live" radio and "on demand" radio by tapping the respective label once. Overall, the UCLA Bruins mobile app is satisfactory when it comes to user control and freedom. 
 
-The NFL Fantasy Football App's strongest area of design is in the amount of user control and freedom users have when using it. More generally, the user can always back out of player profiles by tapping the X in the top right hand corner of the screen. On other interfaces, users can tap the back arrow located in the top left hand of the screen to return to the previous menu. The five menu tabs at the bottom of the screen allow for quick navigation to different interfaces. This allows the user to travel from one page to a completely different page with one tap, as opposed to having to navigate back out to a master directory and back in to the desired page. 
+![B3](https://drive.google.com/uc?id=1lWNQyeZso_Ui4KX3p34YN6qbFnpRx3F_)
 
-![FF Interfaces](https://drive.google.com/uc?id=19XddaN7Sz-7g_FzbXUx0TJI6PgdSL7Xp)
-
-The app excels in offering user control in the player search interface. The user can filter the player search by position, availability of player, season year, projected scores, trends, and present stats. Each player profile provides the players rank, average # of points, % owned, and bye week (the week the player does not play). In addition, the profile provides data on the points scored week to week throughout the season as well as projected points for the rest of the year. These statistical features are critical in Fantasy Football since the goal of the game is to pick the best performing players. As such, user control and freedom is what I appreciate most about the NFL Fantasy Football App's user experience.
-
-![FF Interfaces](https://drive.google.com/uc?id=1nB8fdcZUbStgeFdlMzh73zocCf9YDQ7D)
+![B3](https://drive.google.com/uc?id=18LBJhwTj2f4fwWVVyEMSw4B7b0vG4jhB)
 
 Severity Rating: 1
 
 ## 4: Consistency and Standards
 
-Internal Consistency: The NFL Fantasy Football App is, for the most part, internally consistent. User profiles always appear as circular pictures with the user's league rank to the upper left hand side of the profile. The user name lies below his/her profile picture with the user's league record to the right. NFL player profiles are also consistent, with their names bolded above their team, position, and number. Some errors with consistency occur when a user wants to back out of certain interfaces. In the player profile interface, the user must tap the "x" in the upper right corner to escape, whereas in the "edit team" screen, the escape button is an arrow in the top left corner. Beyond this minor inconsistency, the app is easy to navigate due to its good internal consistency. 
-
-![FF Interfaces](https://drive.google.com/uc?id=1L6KrWbzZIughdvBnWdv9K5phttTJ_Asv)
+Internal Consistency: The UCLA Bruins app struggles with internal consistency. Most notably, the double menu system is redundant and ineffective. You can both "buy tickets" in the sidebar menu as well as the static menu at the bottom of the screen. This inconsistency clutters the interface and confuses the user who doesn't know which menu leads to which pages. In addition, the mechanism by which the user exits a page is different depending on the page. If the user is in the sidebar menu, he/she has to tap the menu icon to close it. On the other hand, if the user is on the game interface, he/she has to tap the "done" button at the boddon of the screen. This inconsistency also hinders efficient usability. 
 
 
-![FF Interfaces](https://drive.google.com/uc?id=1irer3q8SDaToTXyIxNs3bXcIkTFSKr2N)
+![B3](https://drive.google.com/uc?id=1lWNQyeZso_Ui4KX3p34YN6qbFnpRx3F_)
+
+![B3](https://drive.google.com/uc?id=18LBJhwTj2f4fwWVVyEMSw4B7b0vG4jhB)
+
+External Consistency: The UCLA Bruins app is not externally consistent for two reasons. First, the app is very unique in that it is a sports information platform for one specific school. There is not an industry-wide benchmark on what these apps are suppoed to look like. However, this app still falls into a broader category of sports apps such as ESPN and The Score. These apps are similar information platforms that provide users with sports content from all sports in every part of the world. Thus, the second reason why this app is not externally consistent is because it is very different in structure and design to other sports apps. The biggest inconsistency is the calendar interface. The UCLA Bruin's caledar interface app is uninformative and does not allow the user to switch dates easily. It simply tells the use how many events are on that day. The Score's calendar interface is not in a calendar format, but allows the user to easily slide from date to date, each providing a list of matchups by sport and their respective scores. Other elements of external inconsistencies can be found in the subcription system. The UCLA Bruins app doesn't provide a team profile interface that The Score does (see the Fresno State Bulldogs football profile below).
 
 
-External Consistency: The NFL Fantasy Football App is not the only fantasy football app. ESPN and Yahoo also have their own mobile apps. The NFL app is again, for the most part, externally consistent. The roster interface is very similar to ESPN and Yahoo's roster interfaces as all three apps use a list structure to depict the user's roster. In addition, the matchup interface between Yahoo and NFL almost identical. Each of the user's players are located to the left and right of each other, with their current score in bolded black. The aggregate score of each user's team is located at the top of the page. The external consistency of the NFL Fantasy Football App makes the app's usability easier for users who are familiar with other fantasy football formats.
+![B3](https://drive.google.com/uc?id=1lWNQyeZso_Ui4KX3p34YN6qbFnpRx3F_)
 
-![FF Interfaces](https://drive.google.com/uc?id=1yf6ytjyMY-lxlN45J_yl4ObquFoIT3mF)
+![B3](https://drive.google.com/uc?id=18LBJhwTj2f4fwWVVyEMSw4B7b0vG4jhB)
 
-![FF Interfaces](https://usabilitygeek.com/wp-content/uploads/2017/09/ux-case-study-espn-8.jpg)
-
-
-
-![FF Interfaces](https://drive.google.com/uc?id=1W_cgUPg_tdM2FyY4a2O5RF3auNO8UkC8)
-
-![FF Interfaces](https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/42310354-a4ee-11e6-ab97-00163ed833e7/2328764250/yahoo-fantasy-sports-screenshot.png)
-
-Severity Rating: 1
+Severity Rating: 2
 
 ## 5: Error Prevention
+
+The UCLA Bruins app is less a tool than an information platform. The only major action that the user engages in is buying tickets. This process has many error prevention techniques such as requiring a login,  making the user choose the specific sport, and selecting the event they want to buy a ticket for. This process takes several steps and prevents the user from accidentally buying a ticket. Other than this, the error prevention system is neither a hinderance nor a strong point of the app. When the user clicks on a podcast, it immediately starts playing without any warning. Similarly, should the user accidentally tap on a "+" sign next to a sport, the app will automatically subscribe the user to that sport, resulting in unwanted notifications. On the other hand, the app prompts the user with a confirmatory warning before they subscribe to the UCLA calendar. In sum, the error prevention system of the app is inconsistent, but exists during important transactions such as ticket purchases. 
+
+
+![B3](https://drive.google.com/uc?id=1lWNQyeZso_Ui4KX3p34YN6qbFnpRx3F_)
+
+![B3](https://drive.google.com/uc?id=18LBJhwTj2f4fwWVVyEMSw4B7b0vG4jhB)
+
+
+
+error prevention processes are satisfactory
 
 For many people, the weekend fantasy football league is a big deal and accidentally dropping or trading away a player could be devastating for a user's team. Fortunately, the NFL Fantasy Football App is designed well to prevent errors. If a user wants to drop a player, the user must confirm the decision when the app asks, "Are you sure?". Similarly, when adding a player to a lineup, the user must "confirm add" and drop any players that exceed the roster limit. In addition, the app notifies the user of injured or inactive players on the starting roster with colored icons next to a players name. If a player is out, a yellow "O" sits next to his name, allowing the user to swap out the inactive player for an active one. Injury notifications are a crucial part of error prevention and have saved me multiple times from accidentally playing an inactive player. Another more subtle method of error prevention is by providing score projections for each player. This allows the user to make the best decision on which players to play that week. If a player is projected to score very low, it might be a good idea to put them in the reserves. In sum, the app's design and features do a great job of preventing costly user errors. 
 

@@ -16,17 +16,17 @@ The UCLA Bruin mobile app is a digital medium that provides information and func
 
 The UCLA Bruins mobile app can be downloaded on the Apple or Google Play store. You can download the app through the following linkg:[https://uclabruins.com/sports/2014/8/22/209612683.aspx](https://uclabruins.com/sports/2014/8/22/209612683.aspx)
 
-![FF Interfaces](https://drive.google.com/uc?id=1f0hLBDNB8QZeTRhHR1js2gMGnBlj1skW)
+![B Interfaces](https://drive.google.com/uc?id=1f0hLBDNB8QZeTRhHR1js2gMGnBlj1skW)
 
-![FF Interfaces](https://drive.google.com/uc?id=1f0hLBDNB8QZeTRhHR1js2gMGnBlj1skW)
+![B Interfaces](https://drive.google.com/uc?id=1f0hLBDNB8QZeTRhHR1js2gMGnBlj1skW)
 
-![FF Interfaces](https://drive.google.com/uc?id=1f0hLBDNB8QZeTRhHR1js2gMGnBlj1skW)
+![B Interfaces](https://drive.google.com/uc?id=1f0hLBDNB8QZeTRhHR1js2gMGnBlj1skW)
 
-![FF Interfaces](https://drive.google.com/uc?id=1f0hLBDNB8QZeTRhHR1js2gMGnBlj1skW)
+![B Interfaces](https://drive.google.com/uc?id=1f0hLBDNB8QZeTRhHR1js2gMGnBlj1skW)
 
-![FF Interfaces](https://drive.google.com/uc?id=1lWNQyeZso_Ui4KX3p34YN6qbFnpRx3F_)
+![B Interfaces](https://drive.google.com/uc?id=1lWNQyeZso_Ui4KX3p34YN6qbFnpRx3F_)
 
-![FF Interfaces](https://drive.google.com/uc?id=18LBJhwTj2f4fwWVVyEMSw4B7b0vG4jhB)
+![B Interfaces](https://drive.google.com/uc?id=18LBJhwTj2f4fwWVVyEMSw4B7b0vG4jhB)
 
 ## Initial Evaluation
 
@@ -35,39 +35,32 @@ The UCLA Bruins mobile app serves an important purpose as the only app that info
 
 ## 1: Visibility of System Status
 
-The NFL Fantasy football app does a good job of keeping the user informed on the system status at any given time. Whenever a page is loading or buffering, the universal circular loading sign appears on the center of the screen. Should the connection be poor, a "something went wrong" message accompanied by an exclamation point icon appears on the screen. In addition, the scroll bar on the right side of the screen tells the user where he/she is relative to the bottom of the page. 
+The UCLA Bruins mobile app does a minimally satisfactory job of keeping the user informed on the system status. For example, if the user is not connected to the internet, the app does not inform the user of an issue. Instead, the system interface just remains blank. The user has no idea whether the system has crashed or is still loading. If the user is looking for games on the event schedule, the interface appears blank when there are no games that day. This is uninformative because the user does not know whether the system is still loading or if there are no events on that day. These inefficiencies overshadow the app's other effective mechanisms of communicating system status such as: using a scroll bar on the right-hand side of the screen, highlighting the current interface icon in yellow at the bottom of the screen, and indicating the current date as blue on the schedule interface. The visibility of the app's system status can be improved by incorporating a "loading" message or "failed to connect" message. Also, the app should tell the user what a blank screen means; does it mean that the app crashed? does it mean that there are no games on this day? 
 
-When a user is scrolling through league matchups during a certain week, a horizontal line of blue buttons indicates which matchup the user is looking at. That is, if there are 5 matchups in the league, there are five buttons at the bottom that tells the user which matchup is currently on the interface. If a user wants to edit his/her lineup, the up and down arrows next to each player's name lets the user know that the app is currently in edit mode. 
+Severity Rating: 2
 
-Overall, the visibility of system status is strong on the NFL Fantasy Football App.
+![B1](https://drive.google.com/uc?id=1f0hLBDNB8QZeTRhHR1js2gMGnBlj1skW)
 
+![B1](https://drive.google.com/uc?id=1lWNQyeZso_Ui4KX3p34YN6qbFnpRx3F_)
 
-![FF Interfaces](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e4/50/c9/e450c90a-74f7-f45b-5ae6-c8f3fdf5f172/pr_source.png/300x0w.png)
+![B1](https://drive.google.com/uc?id=18LBJhwTj2f4fwWVVyEMSw4B7b0vG4jhB)
 
-![FF Interfaces](https://images.148apps.com/2014/7/47080/243863/screen568x568-1.jpg)
-
-![FF Interfaces](https://drive.google.com/uc?id=1J8h8P4CnwU6nymX5eGZJsCSJ8Pslb-tO)
-
-Severity Rating: 1
 
 ## 2: Match Between System and the Real World
 
-While the lack of skeuomorphic design does not threaten the basic functionality of the app, the NFL Fantasy Football App can improve its design by matching its system with real world concepts more often. For example, the roster interface of the app is structured as a list. A user's 10 player team is simply listed from top to bottom, with the player position to the left of the player face. However, this design is not as intuitive as, say, if the roster interface took the form of a football formation. Football fans are familiar with football formations and seeing a roster in a real-life football formation is more intuitive than seeing a roster in a top-to-bottom list. 
+The UCLA Bruin can improve its design by matching its system with real world concepts more often. For example, the radio interface of the app is structured as a list. This way of presenting media is more rare in the real world. Instead of a list, which is hard to read through, the app can utilize a more spatially aesthetic presentation of radio podcasts. Perhaps each radio podcast can be supplemented with a thumbnail that indicates what topic the podcast is about. In addition, the app forces the user to open a calendar to check events more than four days in advance. This function is not intuitive because most temporal navigation systems in the real world allows the user to swipe to the left and right across dates. Because the schedule interface does not allow for this, it decreases the efficiency with which the user can find future sporting events. 
 
-Current Roster Interface:
-![FF Interfaces](https://i0.wp.com/zacharylalich.com/wp-content/uploads/2015/11/Team_Roster_375-5.png)
+![B2](https://drive.google.com/uc?id=18LBJhwTj2f4fwWVVyEMSw4B7b0vG4jhB)
 
-More Skeuomorphic Roster Interface:
+On the other hand, this app does a good job using conventional, user-friendly language. It does not use complicated technical terms or sports concepts. The bottom headings are easy to understand: "Home", "Schedule", "You", "Videos", "Audio, "By Tickets". Other diction like "Men's Tennis at 7:00 pm" uses language that you hear in real world sports circles, so users will not be confused by inaccesible language in the app. 
 
-![FF Interfaces](https://oyster.ignimgs.com/mediawiki/apis.ign.com/madden-nfl-20/8/88/Madden20-mut-06.jpg?width=1280)
-
-The NFL Fantasy Football App excels in its use of conventional language. Using words and abbreviations that members of the sports community are familiar with like "roster", "QB", "TD", etc., the app's diction connects its systems well to the real world. For example, if a user were to trade a player to another user's team, the app coding would engage in something the average user would not be familiar with. However, the app simply calls this a "trade", something that makes sense to the average football fan. 
-
-In sum, the NFL Fantasy Football App can do a better job of matching its system with the real world, but it's lack of intuitive design structure in certain interfaces does not substantially hinder the user's experience.
+![B2](https://drive.google.com/uc?id=18LBJhwTj2f4fwWVVyEMSw4B7b0vG4jhB)
 
 Severity Rating: 2
 
 ## 3: User Control and Freedom
+
+The UCLA Bruins mobile app does a decent job of giving the user control and freedom while navigating its interfaces. The standing menus at the bottom of the screen allows the user to quickly switch back and forth between interfaces with one tap of the screen. Anytime the user opens a sub-menu, he/she can tap the 
 
 The NFL Fantasy Football App's strongest area of design is in the amount of user control and freedom users have when using it. More generally, the user can always back out of player profiles by tapping the X in the top right hand corner of the screen. On other interfaces, users can tap the back arrow located in the top left hand of the screen to return to the previous menu. The five menu tabs at the bottom of the screen allow for quick navigation to different interfaces. This allows the user to travel from one page to a completely different page with one tap, as opposed to having to navigate back out to a master directory and back in to the desired page. 
 

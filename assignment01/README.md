@@ -20,9 +20,9 @@ The UCLA Bruins mobile app can be downloaded on the Apple or Google Play store. 
 
 ![B Interfaces](https://drive.google.com/uc?id=1r4le9gDxfVw-QW50IAwBREjOOyq9aX57)
 
-![B Interfaces](https://drive.google.com/open?id=12Xk4QangscFJae1My6Eu0bb99KHBbvtn)
+![B Interfaces](https://drive.google.com/uc?id=12Xk4QangscFJae1My6Eu0bb99KHBbvtn)
 
-![B Interfaces](https://drive.google.com/open?id=1zFOqTiG4VfDhaMek5p5jzFTyhy4lVql-)
+![B Interfaces](https://drive.google.com/uc?id=1zFOqTiG4VfDhaMek5p5jzFTyhy4lVql-)
 
 
 ## Initial Evaluation
@@ -148,7 +148,7 @@ The UCLA Bruins app does a por job of identifying errors and providing useful st
 
 The app allows users to recover from function errors such as accidentally subscribing to a specific sport. The user simply has to click the red "x" next the sport to stop subscribing. Overall, the app allows users to recover quickly from user errors, but it does not provide informative feedback when system errors occur. 
 
-![B9](https://drive.google.com/open?id=1xJab8Jk4iYZO7KOMpFQsKCpYIKZSNBNm)
+![B9](https://drive.google.com/uc?id=1xJab8Jk4iYZO7KOMpFQsKCpYIKZSNBNm)
 
 Severity Rating: 2
 

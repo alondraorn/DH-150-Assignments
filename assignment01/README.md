@@ -93,7 +93,7 @@ The UCLA Bruins app is less a tool than an information platform. The only major 
 
 ![B5](https://drive.google.com/uc?id=1l98YNuVDQZ7dsNjk0u2UE6CkDmEzMjBi)
 
-![B5](https://drive.google.com/open?id=11alheffghc5nqX-AYAP-KydzZ8_bvdvk)
+![B5](https://drive.google.com/uc?id=11alheffghc5nqX-AYAP-KydzZ8_bvdvk)
 
 Severity Rating: 1
 

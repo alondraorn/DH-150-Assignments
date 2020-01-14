@@ -28,7 +28,14 @@ The UCLA Bruins mobile app can be downloaded on the Apple or Google Play store. 
 
 ![FF Interfaces](https://drive.google.com/uc?id=18LBJhwTj2f4fwWVVyEMSw4B7b0vG4jhB)
 
-## Overall Evaluation
+## Initial Evaluation
+
+The UCLA Bruins mobile app serves an important purpose as the only app that informs UCLA fans about UCLA specific sports affairs. However, the app features few strengths in its usability design. Of them, the app excels in allowing users to personalize their experiences by subscribing to specific sports and receiving notifications on game start times, game end times, and scoring updates specific to their subcriptions. In addition, the app offers a quick way of listening to radio and watching videos in one tap of a button. Beyond these strengths, many usability inefficiencies descrease the quality of the user experience. Most alarmingly, the home interface of the app is extremely cluttered. It is not aesthetically pleasing and far from minimalist. The schedule interface is also difficult to use as temporal navigation is unintuitive and requires the user to open a calendar. There are also issues with internal consistency such as the two redundant menu systems at the bottom of the screen and on the left-hand side of the screen. The usability of this app can be improved by, among other things, getting rid of extraneous information in its home interfaces, integrating skeuomorphic elements into its calendar navigation functions, and simplifying the app's cluttered menu interfaces. Improving the app's usability and adding other features like live chat rooms and shareable highlight clips can strengthen the sense of community among UCLA sports fans. 
+
+
+
+Usability can be improved 
+
 
 In one sentence, the NFL Fantasy Football App gets the job done. That is, it is a functional tool that I use to manage my fantasy team, analyze player performances, and monitor my weekly matchups. The structural design of the app is simple, and navigation is easy. For users like me who have played fantasy for a long time, the app is quickly learned and immediately functional. I can search for players easily, request a trade with another user, and optimize my weekly lineups with a few taps of the screen. I can also conduct more detailed statistical analysis because the app provides data on every player's past, present, and future (projected) performance. The app is extremely flexible for both beginner users and expert users and uses conventional football language. Thanks to the constant warning messages and expert advice, I avoid making errors that could hurt my fantasy team. 
 

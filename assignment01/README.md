@@ -124,19 +124,19 @@ Severity Rating: 2
 
 ## 8: Aesthetic and Minimalist Design
 
-Using a white, turquoise, and gray color palette, the NFL Fantasy Football App provides the user with a aesthetically acceptable interface. Headings and sections are rectangular with smooth corners and are all in readable font. Colors do not clash, and even small text is readable. Player profiles feature light logo backgrounds that do not interfere with the player pictures and add flavor to the interface. 
+The aesthetics of the UCLA Bruins app is its weakest heuristic category of them all. Every interface is appears cluttered and complicated. Take the home interface for example. Why is there a picture of a bear with a small UCLA logo in the bottom left-hand corner of the image. This picture seems to serve no purpose. Right below this picture is a mustard yellow banner that indicates the number of games in the upcoming week. This is vague, uninformative, and thus unnecessary information to have on the homepage of the app. 
 
-The design is also quite minimalist, given the amount of information a user needs to be successful in fantasy football. The roster interface provides a picture, name, and total points of each player with details about the team they play for and their position. The top of the interface shows the user's league record and any win or loss streak he/she might be on. There are options to trade, manage waivers, or add players. The information given on the roster interface is necessary and informative. Some elements such as the player picture may be unnecessary, but without them, the interface lacks spirit. 
+![B7](https://drive.google.com/uc?id=1lWNQyeZso_Ui4KX3p34YN6qbFnpRx3F_)
 
-![FF prevention](https://drive.google.com/uc?id=1UC1ltYuF_ddHJvOLedElpBsmvqXlI8B2)
+The schedule page is almost as confusing. The top of the page has a horizontal bar of calendar dates, below which is a blue banner that says the spells out the date highlighted above. Below is a mustard yellow banner that says "upcoming". This text is redundant and useless, creating unnecessary clutter in the interface. 
 
-The player profile is also minimalist in design. Each player has five summary statistics at the top with information about the latest matchup below. Clicking the "stats" tab allows the user to see more in-depth data about that player and his past performances. There are no unnecessary graphics or text. 
+![B7](https://drive.google.com/uc?id=1lWNQyeZso_Ui4KX3p34YN6qbFnpRx3F_)
 
-![FF prevention](https://drive.google.com/uc?id=1HNOTmuHg26RqYUyOqtrJHFlLYew_KXb3)
+The audio page is not aethetically pleasing. Podcasts are listed in a top to bottom structure that appears boring and tedious. The bland aethetics of this page detract from the user experience. As previously mentioned, this interface could be benefitted by adding more visual aids and using a more intuitive spatial structure.
 
-Overall, the NFL Fantasy Football App is aesthetically acceptable and not too cluttered with information. There may be some room to improve upon the app in this regard such as changing to a richer color palette or reducing the amount of numbers on certain interfaces, but the current state of the app's aesthetics does not undermine the user experience to any noticeable extent. 
+![B7](https://drive.google.com/uc?id=1lWNQyeZso_Ui4KX3p34YN6qbFnpRx3F_)
 
-Severity Rating: 1
+Severity Rating: 3
 
 ## 9: Help Users Recognize, Diagnose, and Recover from Errors
 

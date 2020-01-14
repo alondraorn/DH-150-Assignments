@@ -70,7 +70,7 @@ Severity Rating: 1
 
 ## 4: Consistency and Standards
 
-Internal Consistency: The UCLA Bruins app struggles with internal consistency. Most notably, the double menu system is redundant and ineffective. You can both "buy tickets" in the sidebar menu as well as the static menu at the bottom of the screen. This inconsistency clutters the interface and confuses the user who doesn't know which menu leads to which pages. In addition, the mechanism by which the user exits a page is different depending on the page. If the user is in the sidebar menu, he/she has to tap the menu icon to close it. On the other hand, if the user is on the game interface, he/she has to tap the "done" button at the boddon of the screen. This inconsistency also hinders efficient usability. 
+Internal Consistency: The UCLA Bruins app struggles with internal consistency. Most notably, the double menu system is redundant and ineffective. You can both "buy tickets" in the sidebar menu as well as the static menu at the bottom of the screen. This inconsistency clutters the interface and confuses the user who doesn't know which menu leads to which pages. In addition, the mechanism by which the user exits a page is different depending on the page. If the user is in the sidebar menu, he/she has to tap the menu icon to close it. On the other hand, if the user is on the game interface, he/she has to tap the "done" button at the boddon of the screen. This inconsistency also hinders efficient usability. This issue can be improved by integrating both menu systems into one that is collectively exhaustive.
 
 
 ![B3](https://drive.google.com/uc?id=1lWNQyeZso_Ui4KX3p34YN6qbFnpRx3F_)
@@ -80,53 +80,45 @@ Internal Consistency: The UCLA Bruins app struggles with internal consistency. M
 External Consistency: The UCLA Bruins app is not externally consistent for two reasons. First, the app is very unique in that it is a sports information platform for one specific school. There is not an industry-wide benchmark on what these apps are suppoed to look like. However, this app still falls into a broader category of sports apps such as ESPN and The Score. These apps are similar information platforms that provide users with sports content from all sports in every part of the world. Thus, the second reason why this app is not externally consistent is because it is very different in structure and design to other sports apps. The biggest inconsistency is the calendar interface. The UCLA Bruin's caledar interface app is uninformative and does not allow the user to switch dates easily. It simply tells the use how many events are on that day. The Score's calendar interface is not in a calendar format, but allows the user to easily slide from date to date, each providing a list of matchups by sport and their respective scores. Other elements of external inconsistencies can be found in the subcription system. The UCLA Bruins app doesn't provide a team profile interface that The Score does (see the Fresno State Bulldogs football profile below).
 
 
-![B3](https://drive.google.com/uc?id=1lWNQyeZso_Ui4KX3p34YN6qbFnpRx3F_)
+![B4](https://drive.google.com/uc?id=1lWNQyeZso_Ui4KX3p34YN6qbFnpRx3F_)
 
-![B3](https://drive.google.com/uc?id=18LBJhwTj2f4fwWVVyEMSw4B7b0vG4jhB)
+![B4](https://drive.google.com/uc?id=18LBJhwTj2f4fwWVVyEMSw4B7b0vG4jhB)
 
 Severity Rating: 2
 
 ## 5: Error Prevention
 
-The UCLA Bruins app is less a tool than an information platform. The only major action that the user engages in is buying tickets. This process has many error prevention techniques such as requiring a login,  making the user choose the specific sport, and selecting the event they want to buy a ticket for. This process takes several steps and prevents the user from accidentally buying a ticket. Other than this, the error prevention system is neither a hinderance nor a strong point of the app. When the user clicks on a podcast, it immediately starts playing without any warning. Similarly, should the user accidentally tap on a "+" sign next to a sport, the app will automatically subscribe the user to that sport, resulting in unwanted notifications. On the other hand, the app prompts the user with a confirmatory warning before they subscribe to the UCLA calendar. In sum, the error prevention system of the app is inconsistent, but exists during important transactions such as ticket purchases. 
+The UCLA Bruins app is less a tool than an information platform. The only major action that the user engages in is buying tickets. This process has many error prevention techniques such as requiring a login and making the user choose the specific sport and the event they want to buy a ticket for. This process takes several steps and prevents the user from accidentally buying a ticket. Other than this, the error prevention system is neither a hinderance nor a strong point of the app. When the user clicks on a podcast, it immediately starts playing without any warning. Similarly, should the user accidentally tap on a "+" sign next to a sport, the app will automatically subscribe the user to that sport, resulting in unwanted notifications. On the other hand, the app prompts the user with a confirmatory warning before they subscribe to the UCLA calendar. In sum, the error prevention system of the app is inconsistent, but exists during important transactions such as ticket purchases. 
 
+![B5](https://drive.google.com/uc?id=1lWNQyeZso_Ui4KX3p34YN6qbFnpRx3F_)
 
-![B3](https://drive.google.com/uc?id=1lWNQyeZso_Ui4KX3p34YN6qbFnpRx3F_)
-
-![B3](https://drive.google.com/uc?id=18LBJhwTj2f4fwWVVyEMSw4B7b0vG4jhB)
-
-
-
-error prevention processes are satisfactory
-
-For many people, the weekend fantasy football league is a big deal and accidentally dropping or trading away a player could be devastating for a user's team. Fortunately, the NFL Fantasy Football App is designed well to prevent errors. If a user wants to drop a player, the user must confirm the decision when the app asks, "Are you sure?". Similarly, when adding a player to a lineup, the user must "confirm add" and drop any players that exceed the roster limit. In addition, the app notifies the user of injured or inactive players on the starting roster with colored icons next to a players name. If a player is out, a yellow "O" sits next to his name, allowing the user to swap out the inactive player for an active one. Injury notifications are a crucial part of error prevention and have saved me multiple times from accidentally playing an inactive player. Another more subtle method of error prevention is by providing score projections for each player. This allows the user to make the best decision on which players to play that week. If a player is projected to score very low, it might be a good idea to put them in the reserves. In sum, the app's design and features do a great job of preventing costly user errors. 
-
-
-![FF prevention](https://drive.google.com/uc?id=1FbhoXngM_jgGO1RR_v_XY3ZjkSDSM_tJ)
-
-![FF prevention](https://m.fantasy.nfl.com/_next/static/images/edit-2019-6e58f120240b87b6fab2ab46f9e3e2d5.png)
-
-The small gray numbers to the right side of each player is a projected score for that week. This error prevention method helps the user avoid playing E.Ebron this week, who is predicted to score fewer points than T.Kelce. 
+![B5](https://drive.google.com/uc?id=18LBJhwTj2f4fwWVVyEMSw4B7b0vG4jhB)
 
 Severity Rating: 1
 
 ## 6: Recognition rather than Recall
 
-The NFL Fantasy Football App does not require much recall from the user at all. The primary instance in which a user needs to remember something is when the user is looking for a specific player in the app database. The app provides an effective search system that does not require the user to recall the specific name of the player. Rather, the user only has to know what position of the desired player. If the user knows that the desired player is a quarterback, then the user can filter search results for just quarterbacks. The search engine generates a list of players names that are supplemented with logos of the teams they are on and a portrait picture of each player. In addition, at the top of the player search interface is a "Most Added Players" section which offers the user a quick way to add a desired player based on the popularity of the player they are looking for. As such, the user rarely needs to recall specific details about a player to find them. All the user needs to know is what the player's position, what team they play for, or what the player looks like. Overall, the nature of fantasy football does not demand that the user have a good memory, but in situations in which the user must remember something, the app reduces the need to recall with a search system that emphasizes recognition. 
 
-![FF recog](https://drive.google.com/uc?id=1XXpRQLVNhaZekCWdM-oSwSKgbDHLt3Yt)
+The nature of the UCLA Bruins app does not require much recall from the user at all. However, the one instance in which recall is involved occurs when the user needs to remember when a specific game was or will occur. For instance, if a user wants to go to a game next week, he/she needs to remember the specific date, sport, and time. Unforunately, the app does not help the user much in this process. As mentioned, the schedule interface only indicates the number of events occuring each day of the week. It does not give the user any clues as to which type of sport is playing each day. In addition, the app does not provide any specific information on where the games will take place, forcing users who want to attend these events to recall the specific details themselves. 
 
-Severity Rating: 1
+![B6](https://drive.google.com/uc?id=1lWNQyeZso_Ui4KX3p34YN6qbFnpRx3F_)
+
+
+Another example of a failure to use enough recognition design is in the box score interface. Here, we see the name and number of the players along with their statistics for the game, but we often forget the specific names of the players relative to what they look like. A more effective design might be to include a picture of each player. This would allow the user to associate the name and appearance together instead of making them match the names to appearances from scratch. Ultimately, including more recognition-based visuals would make box scores easier to interpret.
+
+
+![B6](https://drive.google.com/uc?id=18LBJhwTj2f4fwWVVyEMSw4B7b0vG4jhB)
+
+
+Severity Rating: 2
 
 ## 7: Flexibility and Efficiency of Use
 
-The NFL Fantasy Football App offers a limited number of features that make the user experience enjoyable and efficient for both expert level users and beginners. For example, when drafting players at the beginning of the season, expert users can analyze the player pool and set their pre-draft order. During the draft, they can assign players to their queue to be auto-drafted during the next round. For beginners, the draft can be intimidating, so the app allows users to complete the draft based on pre-determined rankings by experts. That is, beginners who do not know how to draft can auto-draft their entire team without needing to go through the more complicated process of expert users. 
+The UCLA Bruins app is a beginners app. That is, it lacks features that make the expert user's experience more efficient and flexible. An unavoidable reason for this is that the nature of the app is simplistic. It is meant to be an information platform for those seeking basic news on the sports world. It is not a statistics app that lets users to conduct sports analytics on UCLA sports performance. As such, there is little room to make the functional experience "faster" for expert users. However, there is still some potential to make their experience a more efficient one. Perhaps the app should integrate a filter function into the calendar that allows expert users to filter certain sports in and out of the schedule interface. Also, users should be able to follow specific players and their performances throughout the season. A subcription system to players as well as teams would allow expert users to use the app according to their specific desires. Meanwhile, beginner users can keep using the app as a quick score report during the weekend. 
 
-Another feature that increases the user's efficiency is the optimization function. This function allows the user to auto-generate the best projected roster for a given week without needing to manually switch players in and out of the lineup. Players who want more control over their team are still able to change their roster manually and do not have to optimize their roster based on the app's projected scores. 
+The one feature that allows expert users to differentiate their experience is the team subscription system. As mentioned, this system allows users to selectively follow certain UCLA sports, allowing them to receive more detailed notifications and reports about their chosen sport. 
 
-![FF flexibility](http://static.nfl.com/static/content/public/image/fantasy/general/fan_images_league-types.png)
-
-I believe the app can improve when it comes to flexibility and efficiency of use. Expert users should be able to auto-add potential free agents without needing to monitor their availability status throughout the season. For instance, if I want Mark Ingram on my team, I should be able to tap a function that notifies me of his availability and automatically adds him to my team when possible. Another possible improvement that would make the fantasy football experience easier for beginners is to develop an aggregate rating measure for each player. This single rating will take into account multiple other predictors of success and can serve as a simple guide for beginners who are trying to decide who to put on their team. This experience contrasts the current experience in which users need to tediously analyze players using many statistics such as play time, style of offense, and past performance.
+![B7](https://drive.google.com/uc?id=1lWNQyeZso_Ui4KX3p34YN6qbFnpRx3F_)
 
 Severity Rating: 2
 

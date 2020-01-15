@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Producing more than 100 national titles and 250 Olympic medals, UCLA's prestigious division one athletic programs are historic, high-achieving, and exciting. Our success has fostered school spirit and a strong sports community at UCLA. However, most individuals in the UCLA community are busy students, and as such, need an efficient platform for keeping up with sports scores, events, and news. 
+Producing more than 100 national titles and 250 Olympic medals, UCLA's prestigious division one athletic programs are historic, high-achieving, and exciting. Our success has fostered strong school spirit and a loyal sports community at UCLA. However, most individuals in the UCLA community are busy students, and as such, need an efficient platform for keeping up with sports scores, events, and news. 
 
 I chose to evaluate the UCLA Bruin mobile app because it cultivates and empowers the UCLA sports community. For sports enthusiasts like me, the UCLA Bruin app allows users to quickly access sports scores, buy tickets, and watch highlights. I am interested in how the app’s design enhances or hinders its usability for the average user like me, who doesn’t usually analyze the app from a designer’s perspective. I also want to learn how the usability design of this app increases the cohesiveness of the UCLA sports community. Hopefully, my UX design will contribute to this community by enhancing the usability of the UCLA Bruin app and by adding new features that can strengthen the social ties between its members.
 
@@ -14,7 +14,7 @@ I chose to evaluate the UCLA Bruin mobile app because it cultivates and empowers
 
 The UCLA Bruin mobile app is a digital medium that provides information and functions related to ongoing UCLA sports. The user can check box scores, watch highlights, buy tickets, and assess team performances. The app allows the user to personalize his/her experience by "subscribing" to specific sports. In doing so, the user can receive more detailed and frequent updates about his/her sport of interest. The app also provides free live radio and on demand content that covers UCLA sports. 
 
-The UCLA Bruins mobile app can be downloaded on the Apple or Google Play store. You can download the app through the following link:[https://uclabruins.com/sports/2014/8/22/209612683.aspx](https://uclabruins.com/sports/2014/8/22/209612683.aspx)
+The UCLA Bruins mobile app can be downloaded on the Apple or Google Play store. You can download the app through the following link: [https://uclabruins.com/sports/2014/8/22/209612683.aspx](https://uclabruins.com/sports/2014/8/22/209612683.aspx)
 
 ![B Interfaces](https://drive.google.com/uc?id=1FKzxecTEF3ur9N31icWquIPTz7N2BOsz)
 

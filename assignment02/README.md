@@ -23,3 +23,19 @@ Indicate that the purpose of the usability testing aims to find out how to impro
 Describe the setting(where, portable minimalistic lab), equipment(computer, software)
 Report that it is a pilot test (in order to test the setting and the materials).
 Describe the process (ex. Background questions, pretest, posttest) and what was measured (ex. Ease of use)
+
+## Survey Link
+
+Here is a link to the moderator script and participant survey. 
+
+## Video Link
+
+Here is a link to a video that shows the participant's facial reactions side by side with a screen recording of their actions on the UCLA Bruin's app during the pilot test. 
+
+## Reflection 
+
+Write a short paragraph about:
+what you learned during the pilot test, 
+what went well and what went not so well 
+how you want to improve your UT in the future
+

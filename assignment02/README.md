@@ -30,7 +30,7 @@ Here is a link to the moderator script and participant survey.
 
 ## Video Link
 
-Here is a link to the usability test video and screen recording. [video](file:///Users/joshmimura/Documents/ActivePresenter/Untitled1/Video/index.html)
+Here is a link to the usability test video and screen recording. ![video](file:///Users/joshmimura/Documents/ActivePresenter/Untitled1/Video/index.html)
 
 ## Reflection 
 

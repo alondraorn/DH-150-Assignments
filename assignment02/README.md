@@ -30,7 +30,7 @@ Here is a link to the moderator script and participant survey.
 
 ## Video Link
 
-Here is a link to the usability test video and screen recording. ![video](https://drive.google.com/uc?id=1yiEDN1tqZ3sDmb-SoFgJF1S73n4gDxAl)
+Here is a link to the usability test video and screen recording. ![video](https://drive.google.com/open?id=1yiEDN1tqZ3sDmb-SoFgJF1S73n4gDxAl)
 
 ## Reflection 
 

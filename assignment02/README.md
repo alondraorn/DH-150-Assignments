@@ -26,13 +26,12 @@ Describe the process (ex. Background questions, pretest, posttest) and what was 
 
 ## Survey Link
 
-Here is a link to the moderator script and participant survey. 
+Here is a link to the moderator script and participant survey. [Click Here](https://forms.gle/22oESa3TUNvt14QP6) 
+Note: Dr. Cho, I have added you as a collaborator. You can access the editable survey [Here](https://docs.google.com/forms/d/1aAWFNN2KhPZEq1w_hh6BXRTz44rZL5uh0e1b1gpFvT0/edit?usp=sharing)
 
 ## Video Link
 
-Here is a link to the usability test video and screen recording. ![video](https://drive.google.com/open?id=1yiEDN1tqZ3sDmb-SoFgJF1S73n4gDxAl)
-
-[link](https://drive.google.com/file/d/1yiEDN1tqZ3sDmb-SoFgJF1S73n4gDxAl/view?usp=sharing)
+Here is a link to the usability test video and screen recording. [Click Here to Download Mp4 File](https://drive.google.com/file/d/1yiEDN1tqZ3sDmb-SoFgJF1S73n4gDxAl/view?usp=sharing)
 
 ## Reflection 
 

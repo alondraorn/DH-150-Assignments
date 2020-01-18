@@ -32,6 +32,8 @@ Here is a link to the moderator script and participant survey.
 
 Here is a link to the usability test video and screen recording. ![video](https://drive.google.com/open?id=1yiEDN1tqZ3sDmb-SoFgJF1S73n4gDxAl)
 
+[link](https://drive.google.com/file/d/1yiEDN1tqZ3sDmb-SoFgJF1S73n4gDxAl/view?usp=sharing)
+
 ## Reflection 
 
 Write a short paragraph about:

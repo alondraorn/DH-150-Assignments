@@ -1,4 +1,4 @@
-# DH 150 Assignment 02
+# DH 150 Assignment 02 - Josh Mimura
 
 # Pilot Usability Test 
 

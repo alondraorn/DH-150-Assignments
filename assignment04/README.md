@@ -52,11 +52,13 @@ What would the users do to complete that activity?
 
 ## Research Methodology
 
-I will conduct my contextual inquiry through participatory observation. I will visit a typical "low-stakes, transitory setting", a cafe where busy college students go on their lunch breaks. Here, I will passively observe and interact with the participant, who embodies the typical user of sports apps. He will be provided an explanation of the study and will be required to give informed consent before we proceed with the contexual inquiry. 
+I will conduct my contextual inquiry through participatory observation. I will visit a typical "low-stakes, transitory setting", a cafe where busy college students go on their lunch breaks. Here, I will passively observe and interact with the participant, who embodies the typical user of sports apps. 
 
-As the interviewer, I will take a backseat and let the participant guide the inquiry. He will be tasked with an open ended engagement to promote contexual insights: "Check in on the sports world: Pick your two favorite sports. For each, find out what is happening in the league, who the best teams are, and any other exciting pieces of information. You can also check in with your favorite team and your favorite player. How is the team and/or your favorite player performing this season?" During the exercise, I may ask the participant basic contexual questions about his relationship with sports and sports apps as well as probe the participant for additional explanation during specific tasks. 
+The participant will be provided an explanation of the study and its procedures and will be required to give informed consent before we proceed with the contexual inquiry. Then, I will ask some basic background questions pertaining to the participant's interest in sports, use of sports apps, and connection to the sports community. Then, the participant will be tasked with an open ended engagement to promote contexual insights: "Check in on the sports world: Pick your two favorite sports. For each, find out what is happening in the league, who the best teams are, and any other exciting pieces of information. You can also check in with your favorite team and your favorite player. How is the team and/or your favorite player performing this season?" During the exercise, I will ask the participant basic contexual questions about his relationship with sports and sports apps as well as probe the participant for additional explanation during specific tasks. 
 
-I will collect data in two ways. First, I will write down field notes and observations on my laptop. Second, I will audio record the session, which will be transcribed for analysis.
+After the user has completed the broad task, I will ask for the participant's feedback on his experience using the mobile sports app. I will also try to understand the overall satisfaction and frustration levels of the user as well as his opinions on possible design changes. 
+
+Throughout the activity phase of the inquiry, I will take a backseat and let the user lead the way. I will collect data in two ways. First, I will write down field notes and observations on my laptop. Second, I will audio record the session, which will be transcribed for analysis. The participant will be notified that his identity will remain confidential. 
 
 
 

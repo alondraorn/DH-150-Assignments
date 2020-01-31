@@ -14,42 +14,6 @@ A target user that can give us a representative assessement of the sports commun
 
 The target user will most likely log into sports apps during down time and leisure time throughout the day. For busy day workers, the lunch break is a good time to get caught up on sports news. In other common instances, users likely check their apps at the gym, in the restroom, or relaxing in their bedroom. The target user simply needs to log into their mobile device and enter their sports app. The low cost of doing so allow our target users to interact with digital sports apps from almost anywhere, places we might describe as "low-stakes, transitory settings".
 
-
-
-
-
-
-Step01: Specify the main design challenge 
-What is the main activity your project would support the users?
-- users check scores and keep up with the sports world and community, everyone has a REACTION, but often times, no one to share it with
-
-What is the basic need involved for that activity? (reference)
-- this is an expression of leisure and collective excitement for an athlete that represents a subset of the public
-
-What is(are) the traditional/current solution(s) to satisfy the needs?
-- traditionally, people to go games, or check the newspaper
-- now, people overwhelmingly get their sports news from the web, and communities in social media are able to center around sports
-
-What is(are) the limitation(s) that possibly would be improved with (digital) technology?
-- the challenge is that digital technology often weakens the community aspect of sports; you are not longer watching at a bar, not with friends, not outside the stadium; instead you just check on your phone 
-- digital technology should do a better job of integrating community building features into sports apps in order to restore the social cohesion of sports communities.
-
-Step02: Target users 
-What are the characteristics of users? (ex. demographics, preference, expertise) 
-- users vary greatly in almost all demographic categoeis
-  - young and old
-  - black and white
-  - men and women
-  - most have basic expertise about sports and some have a lot
-  - EVERYONE SEES VALUE BECAUSE OF THE COMMUNITY, no value if no community
-Where would the users do that activity?
-- checking on scores can be done during leisure time or dead time during the day; this can be at home, or in the office, during a lecture, in between studying
-
-What would the users do to complete that activity? 
-- they usually just hop on their mobile device
-
-
-
 ## Research Methodology
 
 I will conduct my contextual inquiry through participatory observation. I will visit a typical "low-stakes, transitory setting", a cafe where busy college students go on their lunch breaks. Here, I will passively observe and interact with the participant, who embodies the typical user of sports apps. 
@@ -60,56 +24,27 @@ After the user has completed the broad task, I will ask for the participant's fe
 
 Throughout the activity phase of the inquiry, I will take a backseat and let the user lead the way. I will collect data in two ways. First, I will write down field notes and observations on my laptop. Second, I will audio record the session, which will be transcribed for analysis. The participant will be notified that his identity will remain confidential. 
 
-
-
-
-Step03: Pick an observation method (or a combination of methods) 
-Interview with direct / Passive / Participatory observation* (recommended)
-Or something you learned on your own (refer the field guideline by IDEO)
-
-- participatory observation
-
-Step04: Plan to get into the context & write down the observation/ interview guide 
-Decide where to visit
-
-- will visit someone on their lunch break who wants to check in with sports
-
-Decide what activities to observe/ what to ask to do
-
-- want them to check up on scores from the night before and other news
-- want to understand to what extent the user goes beyond individual reaction and actually engages with others in the community
-
-
-Decide how to interact with the users 
-- interviewer will take a backseat and occasionally ask probing questions 
-
-Decide how to collect user data (ex. Pen-paper notes, voice/video recording, images)
-Prepare the interview guide (refer)
-- interviewer will take notes on computer as well as voice record the session 
-
 ## Interview Guide
 
-## Data
+[link](https://docs.google.com/document/d/16N-MhBysPMf2P5v4-URKpfAvhdfb8Q32MBlI3yLxn8k/edit?usp=sharing)
 
 ## Data Files
 
-## Transcript
+[link](https://drive.google.com/file/d/12hmwDUsKzO8atayE8X7dIVw-grL8jQU6/view?usp=sharing)
+
+## Transcript and Observation Notes
+
+[link](https://docs.google.com/document/d/1xaDAS4P-5qB7E8Kku-6diHnVE5-QUspuHG82KUHSqqE/edit?usp=sharing)
+
+[link](https://docs.google.com/document/d/18cpnX5W1O0WzyU_6wJ5xVU8rlnvxzqcUZ5XwA5r6CvU/edit?usp=sharing)
 
 ## Reflection
 
+I learned three main things about the context of mobile sports app users from this contextual inquiry. First, it seems that only the most invested sports fans download and use mobile sports applications. Sean's rationale for this is that there exist many alternatives to sports apps like Twitter and Instagram, both of which frequently report on popular sports events. Sean mentions that many of his friends do not have sports apps and get their news from more general sources like Youtube. As such, only those most interested in performance data, detailed news reports, and access to sports media take the time to download a mobile app dedicted to sports. (Note: I am not trying to generalize to all users. This is an insight produced from Sean's contextual inquiry) Second, mobile sports app users like Sean appreciate the accessibility and quickness of "score" interfaces. Sean is fluent in the "score" interface navigation as he easily checks the scores of past and occuring sports games. He explains that his main engagement on the ESPN app is to check scores and that these engagements last only a few minutes during his scattered periods of free time throughout the day. Thus, the ability to quickly enter the app, locate the desired score, and close the app seems to be an important criterion for mobile sports app users. Finally, I learned that sports engagement has largely been digitized. Sports fan's like Sean still attend live sports events, but much less frequently than they watch them on a television or electronic device. In addition, most of Sean's conversations with others about sports occur online through Twitter or over text. Thus, increasing the social cohesion of the sports community will involve increasing the digital accesibility of shareable sports content and the interaction between sports users on online mediums.
 
-Step03: Pick an observation method (or a combination of methods) 
-Interview with direct / Passive / Participatory observation* (recommended)
-Or something you learned on your own (refer the field guideline by IDEO)
+Throughout the contextual inquiry, I also learned several things about the process itself. Most notably, I learned that the interviewer needs to be extremely flexible with the questions that he/she is asking. In my case, many of the questions that I asked were not pre-scripted in my interview guide. Conversely, I did not feel the need to ask some of the questions on the script, usually because the participant had already answered them. I felt like that questioning process during the background section and the user activity heavily depends on the flow and content of the session and cannot be 100% planned beforehand. I also learned that participants do not speak with conventional grammar. This became most apparent when I was editing the transcript as I realized that the participant often cut himself off, spoke in run-on sentences, and used many isolated sentence fragments. This seems to be a natural part of contexual inquiries. 
 
-Step04: Plan to get into the context & write down the observation/ interview guide 
-Decide where to visit
-Decide what activities to observe/ what to ask to do
-Decide how to interact with the users 
-Decide how to collect user data (ex. Pen-paper notes, voice/video recording, images)
-Prepare the interview guide (refer)
+For the most part, the process went smoothly. The audio recording and transcript software was accurate and easy to work with. The participant understood each question and responded with rich answers. There is still room for improvement however. Firstly, I think the user-activity was not as deliberate as it should have been. While contexual inquiry activities are generally supposed to be broader in task, the user-activity in my interview felt like an extended conversation about the app, instead of me watching the participant doing something. Second, I had scheduled the interview to be around an hour, but it took a little over half that. I believe the participant ran out of activities to engage in, so we ended early. Next time, I should spend more time on the user-activity and ask more contexual questions. 
 
-Step05: Conduct the research
-Visit the place
-Meet/Observe people/person
-Collect the data
+
+

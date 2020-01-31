@@ -1,5 +1,5 @@
 
-# DH 150 Assignment 04: Contexual Inquiry by Josh Mimura
+# DH 150 Assignment 04: Contextual Inquiry by Josh Mimura
 
 ## Project Design Challenge
 

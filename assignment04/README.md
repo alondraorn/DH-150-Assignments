@@ -1,6 +1,10 @@
 
 # DH 150 Assignment 04: Contextual Inquiry by Josh Mimura
 
+*** 
+
+
+
 ## Project Design Challenge
 
 Before the digital revolution, the sports community was indeed smaller than it is today, but it was more tightly knit. A higher percentage of sports fans actually attended in-person games and events. Local pubs and restaurants were filled to the brim with eager sports fans who could not afford tickets to the game. Men and women had to wait for the morning paper or the nightly news to see how their teams performed earlier in the week. Fans would gather to talk about season trends and their favorite players. 

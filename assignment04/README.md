@@ -30,17 +30,17 @@ Throughout the activity phase of the inquiry, I will take a backseat and let the
 
 ## Interview Guide
 
-[link](https://docs.google.com/document/d/16N-MhBysPMf2P5v4-URKpfAvhdfb8Q32MBlI3yLxn8k/edit?usp=sharing)
+[Link Here](https://docs.google.com/document/d/16N-MhBysPMf2P5v4-URKpfAvhdfb8Q32MBlI3yLxn8k/edit?usp=sharing)
 
-## Data Files
+## Data File
 
-[link](https://drive.google.com/file/d/12hmwDUsKzO8atayE8X7dIVw-grL8jQU6/view?usp=sharing)
+[Link Here](https://drive.google.com/file/d/12hmwDUsKzO8atayE8X7dIVw-grL8jQU6/view?usp=sharing)
 
 ## Transcript and Observation Notes
 
-[link](https://docs.google.com/document/d/1xaDAS4P-5qB7E8Kku-6diHnVE5-QUspuHG82KUHSqqE/edit?usp=sharing)
+[Link Here](https://docs.google.com/document/d/1xaDAS4P-5qB7E8Kku-6diHnVE5-QUspuHG82KUHSqqE/edit?usp=sharing)
 
-[link](https://docs.google.com/document/d/18cpnX5W1O0WzyU_6wJ5xVU8rlnvxzqcUZ5XwA5r6CvU/edit?usp=sharing)
+[Link Here](https://docs.google.com/document/d/18cpnX5W1O0WzyU_6wJ5xVU8rlnvxzqcUZ5XwA5r6CvU/edit?usp=sharing)
 
 ## Reflection
 

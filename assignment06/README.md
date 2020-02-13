@@ -16,7 +16,12 @@ The purpose of the low-fidelity prototyping process is to layout how exactly the
 
 ## Wireframes/Wireflows
 
-Here is the ![link](https://drive.google.com/open?id=13p2GjmyOweykuyupPcN1sj9mBugTA_-D) to the 5 wireframes and the wireflow for task #1: sharing media content.
+Here is the [link](https://drive.google.com/open?id=13p2GjmyOweykuyupPcN1sj9mBugTA_-D) to the 5 wireframes and the pre-test wireflows.
 
+Here is the [link](https://drive.google.com/open?id=1U-AXeXbeMQCApCIuXcma1I0A1mw36LsD) to the post-test wireflows.
 
+Here is the [link](https://drive.google.com/open?id=1w36bQS4Mffb3_rimFwvwt6UIHFn-zSK3) to refined wireflow based on the user test.
 
+## Video of User Test
+
+Here is the [link](https://drive.google.com/open?id=1Hu164L5sLFb_K0M_hLI1YcOh7gIdVY8T) to the user pathway test.

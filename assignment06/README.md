@@ -1,6 +1,8 @@
 
 # DH 150: Assignment 06 Josh Mimura
 
+***
+
 ## Project Summary
 
 This project examines the role the UCLA Bruin's app plays in strengthening cohesion within the sports community by providing mobile access to sports news, scores, and highlights. The project also attempts to understand the design deficiencies of the app and how it can be improved. 

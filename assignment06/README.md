@@ -25,3 +25,17 @@ Here is the [link](https://drive.google.com/open?id=1zvZbI2dr4ci4sXncEdUpjJ_0Y3S
 ## Video of User Test
 
 Here is the [link](https://drive.google.com/open?id=1Hu164L5sLFb_K0M_hLI1YcOh7gIdVY8T) to the user pathway test.
+
+## Reflection
+
+A description of what you would change or design differently based on the feedback you got from the prototype testing. For each, describe in a sentence or two what problem the tester encountered, and in another sentence or two how you would address the problem if you were to revise the prototype.
+
++1: Summary of the process, what went smoothly or differently from your expectation
+
++1: What you would change or design differently based on the feedback you got from the prototype testing. 
+
+For each, describe in a sentence or two what problem the tester encountered, and in another sentence or two how you would address the problem if you were to revise the prototype.
+
+
+Write a short paragraph reflecting on your experience of testing with a low-fidelity prototype. What did you learn about preparing a low-fidelity prototype? What would you do differently next time? How do you think you need to revise the low-fidelity prototype?
+

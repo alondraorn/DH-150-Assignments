@@ -26,16 +26,32 @@ Here is the [link](https://drive.google.com/open?id=1zvZbI2dr4ci4sXncEdUpjJ_0Y3S
 
 Here is the [link](https://drive.google.com/open?id=1Hu164L5sLFb_K0M_hLI1YcOh7gIdVY8T) to the user pathway test.
 
-## Reflection
+## Content Reflection and Potential Design Improvements
 
-A description of what you would change or design differently based on the feedback you got from the prototype testing. For each, describe in a sentence or two what problem the tester encountered, and in another sentence or two how you would address the problem if you were to revise the prototype.
+Task #1: Sharing Media
 
-+1: Summary of the process, what went smoothly or differently from your expectation
+For the most part, the user pathway testing for task #1 went smoothly. The user was able to progress through the wireframes with good knowledge on how to get from one to the other. However, the user missed other cancel features and back track features that were not obvious or absent. For instance, the user did not notice the "cancel" button in the "new message" wireframe (bottom middle), and I had to direct her attention to it. I also noticed that there was no way for the user to back out of the 5th wireframe (bottom right corner) because there was no cancel option. Therefore, I think I should make cancel and back track options more prominent so the user can find them. For instance, I should make the "cancel" button 2.5D in order to catch the user's eye, and I should add a cancel option in the 5th wireframe so that the user can cancel the sharing option at any time. 
 
-+1: What you would change or design differently based on the feedback you got from the prototype testing. 
+Task #2: Team Profile
 
-For each, describe in a sentence or two what problem the tester encountered, and in another sentence or two how you would address the problem if you were to revise the prototype.
+Task #2 went well, but the user slightly misinterpreted the interface structure. The user thought that the "Now", "Roster", and "Schedule" wireframes were independent interfaces. As a result, when I asked her if she could return to the main menu, she figured she needed to keep pressing the back button three times to do so, when she only needed to twice. The actual structure of the interface is static, with a fluid subinterfaces labeled "Now", "Roster", and "Schedule". The user is supposed to swipe between these subinterfaces rather than be presented with a new interface for each. I do not think I need to change anything about the design, since the user's misinterpretation was more due to the limited interactivity of my paper prototype rather than a design flaw. Nevertheless, I can perhaps integrate a tutorial function that shows the user how to navigate the team profile subinterfaces.
+
+Task #3: Checking Scores
+
+In task #3, the user was unclear on which part of the score interface to click on in order to progress to the individual event interaces. She assumed that she would just tap on the entire box for each game, but I noted that there was no indicator for where to tap. In order to fix this issue, I should add right-pointing arrow symbols in each game box to indicate to the user where he/she needs to tap to proceed to a more detailed matchup interface. This will prevent the user from randomly guessing  where to tap on the screen. In addition, I noticed that if the user wanted to tap on a matchup profile for a future game, there was no wireframe that displayed what the new interface would look like. As such, I created a new wireframe (bottom right corner) to show the interface for future matchups as opposed to ongoing matchups.
+
+## Summary of Process and Reflection
+
+Overall, I think the process went smoothly. Though it took a long time to brainstorm my five basic wireframes, I think they turned out simple and functional. I was able to use these wireframes as my starting points for my wireflow prototypes and mirror the same style across any new wireframes I added. Doing so kept my interfaces consistent and easy for the user to navigate.
+
+I did, however, make some mistakes along the way. First, I was drawing too many arrows and flow guidelines in my initial prototypes without realizing that these indicators would give the answers to the user pathway test. I had to erase any pathway indicators beyond the basic arrows so that the user would not have any extra help. I also learned that using a pencil is very important, since I often needed to redraw something or slightly alter a wireframe. I actually started the wireframes in pen and quickly realized that this would be extremely inefficient and messy. In addition, I realized that it is really easy to forget to integrate cancel and back track options when drafting up a low-fidelity prototype. My mind was so occupied with how the user would progress through the steps, that I sometimes forgot to think about how the user would back track through each interface. It is also important to think about which parts of the screen can be scrolled up and down upon and which ones cannot when drafting low-fidelity prototypes. I had to keep this in mind when choosing where to place the scroll bar on the side of the screen. In some interaces, I put it just below the header, indicating that everything on the page besides the header would scroll. On other interfaces, I put the scroll bar further down the screen, which is meant to emphasize that only the lower subsection of the screen is scrollable.
+
+The user pathway test itself went well, though I wish I had invested more time in setting up a better recording system. In this test, I just tilted my laptop screen downwards on the desk to show the users interactions with the paper prototype. Next time, I should probably find a way to position the camera above the user so that the prototypes are seen from the POV of the user rather than from the side. 
 
 
-Write a short paragraph reflecting on your experience of testing with a low-fidelity prototype. What did you learn about preparing a low-fidelity prototype? What would you do differently next time? How do you think you need to revise the low-fidelity prototype?
+
+
+
+
+
 

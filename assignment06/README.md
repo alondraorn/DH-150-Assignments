@@ -26,7 +26,7 @@ Here is the [link](https://drive.google.com/open?id=1zvZbI2dr4ci4sXncEdUpjJ_0Y3S
 
 Here is the [link](https://drive.google.com/open?id=1Hu164L5sLFb_K0M_hLI1YcOh7gIdVY8T) to the user pathway test.
 
-## Content Reflection and Potential Design Improvements
+## User Test Reflection and Potential Design Improvements
 
 Task #1: Sharing Media
 

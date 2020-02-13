@@ -3,7 +3,7 @@
 
 ## Project Summary
 
-This project examines the role the UCLA Bruin's app plays in strengthening cohesion within the sports community by providing mobile access to sports news, scores, and highlights. It also attempts to understand the deficiencies of the app and how the design can be improved. 
+This project examines the role the UCLA Bruin's app plays in strengthening cohesion within the sports community by providing mobile access to sports news, scores, and highlights. The project also attempts to understand the design deficiencies of the app and how it can be improved. 
 
 Through contextual user research, I have learned several things about how members of the sports community might use news apps like the UCLA Bruins app and what design areas can be improved based on this. First, efficiency is extremely important to sports app users. They express their desire to be able to quickly check a score on the sport, without having to go online and manually look up an ongoing game. Second, people in the sports community often talk with their friends about sports in person but have less opportunities to do so outside of face-to-face interactions. The current UCLA Bruins app does not capitalize on this opportunity since it does not have an accessible sharing feature that might allow more online interaction in the sports community. Finally, I observed that users of sports apps are more likely to be deeply interested in sports, can recognize sports jargon, and appreciate skeuomorphic design elements that mirror familiar sports concepts, such as a box score presented in a real-life score table format.
 

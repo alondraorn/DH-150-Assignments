@@ -17,10 +17,12 @@ This high-fidelity prototype supports the following tasks:
   - check tomorrow's UCLA scores
   - view the game summary of a past game
   - view the game summary of a future game
+
 2 Share audio or video content 
   - browse video and audio media content
   - pause/play audio content
   - send media content to other mobile users via SMS text message
+
 3 Access team profile interface
   - view team profiles of UCLA football
   - access NOW, ROSTER, and SCHEDULE subinterfaces of UCLA football

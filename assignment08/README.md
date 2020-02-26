@@ -32,6 +32,22 @@ This high-fidelity prototype supports the following tasks:
 
 - one image of 3 - 5 wireframes + description about why you did what you did
 
+
+Static Menus
+
+
+
+
+I found during my research that sports app users care most about efficiency and simplicity when trying to access sports scores and news. As such, I used incorporated 4 static menu tabs at the bottom of most interfaces to allow for instant and accessibly navigation to different components of the app. If a user wants to quickly switch from media content to score content, they do not have to return to a main page and renavigate to the scores menu. They can just tap "scores". 
+
+The first interface that the user is presented with is the "News" page. ...
+
+On the "Scores" interface, I kept the information about each ongoing game to a minimum. I only included the opponent, score, and time left because including more information can crowd the interface with numbers and makes it more difficult for the user to identify essential information. If the user wants specific details about the game, he/she can tap on each gray box and they can see the scoring progression and a box score. Thus, the minimalist score interface with a more detailed game interface allows user's in a hurry to quickly see the score and lets more interested users analyze the game in depth. 
+
+I found that checking games in the past or in the future was difficult on the UCLA Bruins Mobile app because there was no dynamic calendar function. The user would have to click on a calendar icon and click on specific dates. In order to overcome this inefficiency, I made the tabs on the top part of the screen fluid so that the user can scroll from date to date. This method of finding certain games are easier because the user just scrolls the upper tab menu instead of needing to open and close a static calendar.
+
+On the "Team" interface, I use outlines of the shapes associated with each sport. This allows the user to use visual associations to make decisions faster. It also increases accessibility for those who have reading impairements, but can recognize the universal symbol for each sport.
+
 ## Wireflow Image
 
 ## Link to Prototype

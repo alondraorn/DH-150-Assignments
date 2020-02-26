@@ -36,6 +36,8 @@ This high-fidelity prototype supports the following tasks:
 
 ## Link to Prototype
 
+https://www.figma.com/proto/TeHkllEWxhcFRXV4aftnK2/UCLA-Bruins-App?node-id=42%3A223&scaling=scale-down
+
 ## Peer Feedback 
 
 Please submit one page documentation that contains your high-fidelity prototype:

@@ -11,19 +11,19 @@ This particular phase of the project involves developing a high-fidelity prototy
 
 This high-fidelity prototype supports the following tasks:  
 
-1 Check scores 
+1) Check scores 
   - check today's UCLA scores
-  - view the current game summary of an ongoing game
+  - view the game summary of an ongoing game
   - check tomorrow's UCLA scores
   - view the game summary of a past game
   - view the game summary of a future game
 
-2 Share audio or video content 
+2) Share audio or video content 
   - browse video and audio media content
   - pause/play audio content
   - send media content to other mobile users via SMS text message
 
-3 Access team profile interface
+3) Access team profile interface
   - view team profiles of UCLA football
   - access NOW, ROSTER, and SCHEDULE subinterfaces of UCLA football
   - view past performances, player statistics, and current rankings
@@ -33,20 +33,31 @@ This high-fidelity prototype supports the following tasks:
 - one image of 3 - 5 wireframes + description about why you did what you did
 
 
-Static Menus
 
 
 
 
-I found during my research that sports app users care most about efficiency and simplicity when trying to access sports scores and news. As such, I used incorporated 4 static menu tabs at the bottom of most interfaces to allow for instant and accessibly navigation to different components of the app. If a user wants to quickly switch from media content to score content, they do not have to return to a main page and renavigate to the scores menu. They can just tap "scores". 
+I found during my research that sports app users care most about efficiency and simplicity when trying to access sports scores and news. As such, I used incorporated 4 static menu tabs at the bottom of most interfaces to allow for instant and accessibly navigation to different components of the app. If a user wants to quickly switch from media content to score content, they do not have to return to a main page and renavigate to the scores menu. They can just tap "scores". Each tab lights up yellow to indicate that the user is currently on that particular interface, increasing the visibility of system status. 
 
-The first interface that the user is presented with is the "News" page. ...
+The first interface that the user is presented with is the "News" page. I kept this page simple and minimalist because the former home page of the UCLA Bruins App was cluttered with unnecessary information that made it difficult for the user to know where to go from there. The News interface is meant to provide a vertical feed of top news that the user can navigate through based on popularity or sport (as afforded by the tabs on the top of the screen).
 
-On the "Scores" interface, I kept the information about each ongoing game to a minimum. I only included the opponent, score, and time left because including more information can crowd the interface with numbers and makes it more difficult for the user to identify essential information. If the user wants specific details about the game, he/she can tap on each gray box and they can see the scoring progression and a box score. Thus, the minimalist score interface with a more detailed game interface allows user's in a hurry to quickly see the score and lets more interested users analyze the game in depth. 
+On the "Scores" interface, I kept the information about each ongoing game to a minimum. I only included the opponent, score, and time left because including more information can crowd the interface with numbers and makes it more difficult for the user to identify essential information. If the user wants specific details about the game, he/she can tap on each gray box and they can see the scoring progression and a box score. Thus, the minimalist score interface with a more detailed game interface allows user's in a hurry to quickly see the score and provides more interested users with the opportunity to analyze the game in more detail. 
 
 I found that checking games in the past or in the future was difficult on the UCLA Bruins Mobile app because there was no dynamic calendar function. The user would have to click on a calendar icon and click on specific dates. In order to overcome this inefficiency, I made the tabs on the top part of the screen fluid so that the user can scroll from date to date. This method of finding certain games are easier because the user just scrolls the upper tab menu instead of needing to open and close a static calendar.
 
-On the "Team" interface, I use outlines of the shapes associated with each sport. This allows the user to use visual associations to make decisions faster. It also increases accessibility for those who have reading impairements, but can recognize the universal symbol for each sport.
+On the "Team" interface, I use logos/shapes each sport. This allows the user to use visual associations to make decisions faster. It also increases accessibility for those who have reading impairements, but can recognize the universal symbol for each sport.
+
+Unlike the former UCLA Bruins App, this prototype features a "team profile" interface, which allows the user to evaluate a team's performance during a certain season based on a concise and informative summary profile of each UCLA team. The user has access to relevant news pieces, roster statistics, and details about the team's schedule. Each of the three tabs at the top light up in yellow when the user is currently on that particular interface. This feedback informs the user on the system status. 
+
+In addition, because there are many sports fans who like to understand sports based on numbers while avoiding biased opinions, the "Roster" and "Schedule" subtabs on the "Team Profile" interface present the several statistical indicators for each player/game, without cluttering the interface with too much text. 
+
+I used the roboto font throughout because it is legible and professional. Also, it is less aggressive and rigid than are fonts like Times New Roman, which can seem overly professional. This app is not a business app or a legal database. Thus, roboto is a good balance, as it brings light-heartedness into the interfaces while avoiding a childish look. 
+
+The basic color scheme I use is a soft, dark blue, a kind, mustard yellow, white, and black. I chose these colors for two main reasons. First, the topic of the app is UCLA sports, so it would be confusing to use non-UCLA colors. Second, these colors had great contrast, with ratios above 4.5 for each color combination. Though I ran into some issues with color scheme, (as I will discuss in the Peer Feedback Section) I was able to adjust the lightness of the blue and gold so that they achieved a high enough contrast ratio to each other as well as to black and white. For instance, the white on blue text is easily readable - as is the black on yellow text. Even though the black and blue are relatively well contrasted, I did not use these colors in a text-background relationship because these would be difficult to read in dark environemnts. 
+
+
+
+
 
 ## Wireflow Image
 

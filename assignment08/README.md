@@ -1,6 +1,8 @@
 
 # DH 150: Assignment 08 by Josh Mimura
 
+***
+
 ## Description
 
 My DH 150 project analyzes and improves upon several design features of the UCLA Bruins App. The project consists of several methods of evaluation from task-based testing to contexual inquiries. The goal of this research is to understand how the design of the UCLA Bruins app helps or hinders the apps usability and how it can be modified to increase interaction within the sports community. 

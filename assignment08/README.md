@@ -42,7 +42,7 @@ On the "Scores" interface, I kept the information about each ongoing game to a m
 
 I found that checking games in the past or in the future was difficult on the UCLA Bruins Mobile app because there was no dynamic calendar function. The user would have to click on a calendar icon and click on specific dates. In order to overcome this inefficiency, I made the tabs on the top part of the screen fluid so that the user can scroll from date to date. This method of finding certain games is easier because the user can just scroll along the upper tab menu instead of needing to open and close a static calendar.
 
-On the "Team" interface, I use recognizable sports logos/shapes to complement each sport block. This allows the user to use visual associations to make decisions faster. It also increases accessibility for those who have reading impairements, but can recognize the universal symbol for each sport.
+On the "Team" interface, I use recognizable sports logos/shapes to complement each sport block. This allows the user to use visual associations to make decisions faster. It also increases accessibility for those who have reading impairments but can recognize the universal symbol for each sport.
 
 Unlike the former UCLA Bruins App, this prototype features a "team profile" interface, which allows the user to evaluate a team's performance during a certain season based on a concise and informative summary profile of each UCLA team. The user has access to relevant news pieces, roster statistics, and details about the team's schedule. Each of the three tabs at the top light up in yellow when the user is currently on that particular interface. This feedback informs the user on the system status. 
 

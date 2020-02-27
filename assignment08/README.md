@@ -61,7 +61,7 @@ The basic color scheme I use is a soft, dark blue, a kind, mustard yellow, white
 
 ## Link to Prototype
 
-https://www.figma.com/proto/TeHkllEWxhcFRXV4aftnK2/UCLA-Bruins-App?node-id=42%3A223&scaling=scale-down
+https://www.figma.com/proto/TeHkllEWxhcFRXV4aftnK2/UCLA-Bruins-App?node-id=148%3A0&scaling=scale-down
 
 ## Peer Feedback 
 

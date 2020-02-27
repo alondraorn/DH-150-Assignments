@@ -67,7 +67,7 @@ https://www.figma.com/proto/TeHkllEWxhcFRXV4aftnK2/UCLA-Bruins-App?node-id=148%3
 
 ## Peer Feedback 
 
-After reflecting on the suggestions and opinions of my peers and the professor, I made a couple of changes to my original prototype design/graphic interface:
+After reflecting on the suggestions and opinions of my peers and the professor, I made a couple of changes to my initial prototype design/graphic interface:
 
 1) Color
 
@@ -75,7 +75,7 @@ As noted above, I had some issues with my color scheme throughout my prototype d
 
 2) Headings
 
-Another suggestion I received was to resize the headings at the top of my interfaces to make it more obvious to the user that he/she is currently operating under a specific interface. In the original prototype, the font size of the selected header was 16 compared to a font size of 13 for unselected headers. In the revised prototype, I increased the font size of the current interface heading to 18 so that the system status was more obvious to the user. (See size difference in image below). 
+Another suggestion I received was to resize the headings at the top of my interfaces to make it more obvious to the user that he/she is currently operating under a specific interface. In the initial prototype, the font size of the selected header was 16 compared to a font size of 13 for unselected headers. In the revised prototype, I increased the font size of the current interface heading to 18 so that the system status was more obvious to the user. (See size difference in image below). 
 
 3) Edge radius
 
@@ -83,20 +83,12 @@ Several peers mentioned that the sharp edges of some of my design elements such 
 
 4) Thumbnail Elongation
 
-It was pointed out that the thumbnails/pictures I used in the original prototype lose their proper length and width ratios when stretched to fill the length of their corresponding design elements. Doing so made the pictures look weird and decreased the perceived quality of the interface. As a result, I resized the pictures so that they were proportional and used a black background to fill in the empty space. This black background is common in other media platforms to depict extra space that has not been taken up by an image. 
+It was pointed out that the thumbnails/pictures I used in the initial prototype lose their proper length and width ratios when stretched to fill the length of their corresponding design elements. Doing so made the pictures look weird and decreased the perceived quality of the interface. As a result, I resized the pictures so that they were proportional and used a black background to fill in the empty space. This black background is common in other media platforms to depict extra space that has not been taken up by an image. 
 
-Original Prototype
+Initial Prototype
 ![originalproto](https://drive.google.com/uc?id=12OjOP-scnxi1SkikCzqAQ5pxiZhwXmPD)
 
 Revised Prototype
 ![imageplusdescription](https://drive.google.com/uc?id=1pprAiZpQLMzD9woOh9ygusIjoT-ZfkB8)
 
 
-
-Please submit one page documentation that contains your high-fidelity prototype:
-
-One image with the representative examples of screen designs (3-5 screens) 
-Description of your decision making of the graphical interface design, including the choice of the color scheme and note if you considered/checked accessibility color contrast.
-One image with the wireflow with graphic design
-Link to the interactive prototype or embed window that shows the prototype.
-If you have multiple versions of prototypes by reflecting the evaluation with others, provide them with the description of what you learned from other’s feedback and what you have made the changes. 

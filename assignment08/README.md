@@ -85,7 +85,7 @@ Several peers mentioned that the sharp edges of some of my design elements such 
 
 It was pointed out that the thumbnails/pictures I used in the original prototype lose their proper length and width ratios when stretched to fill the length of their corresponding design elements. Doing so made the pictures look weird and decreased the perceived quality of the interface. As a result, I resized the pictures so that they were proportional and used a black background to fill in the empty space. This black background is common in other media platforms to depict extra space that has not been taken up by an image. 
 
-![originalproto](https://drive.google.com/open?id=12OjOP-scnxi1SkikCzqAQ5pxiZhwXmPD)
+![originalproto](https://drive.google.com/uc?id=12OjOP-scnxi1SkikCzqAQ5pxiZhwXmPD)
 
 
 Please submit one page documentation that contains your high-fidelity prototype:

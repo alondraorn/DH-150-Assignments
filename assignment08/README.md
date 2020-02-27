@@ -1,5 +1,5 @@
 
-# DH 150: Assignmnet 08 by Josh Mimura
+# DH 150: Assignmnent 08 by Josh Mimura
 
 ## Description
 
@@ -30,13 +30,7 @@ This high-fidelity prototype supports the following tasks:
 
 ## Image + Description
 
-- one image of 3 - 5 wireframes + description about why you did what you did
-
 ![imageplusdescription](https://drive.google.com/uc?id=1pprAiZpQLMzD9woOh9ygusIjoT-ZfkB8)
-
-
-
-
 
 During my research, I found that sports app users care most about efficiency and simplicity when trying to access sports scores and news. As such, I used incorporated 4 static menu tabs at the bottom of most interfaces to allow for instant and accessibly navigation to different components of the app. If a user wants to quickly switch from media content to score content, they do not have to return to a main page and renavigate to the scores menu. They can just tap "scores". Each tab lights up yellow to indicate that the user is currently on that particular interface, increasing the visibility of system status. 
 
@@ -89,7 +83,12 @@ Several peers mentioned that the sharp edges of some of my design elements such 
 
 It was pointed out that the thumbnails/pictures I used in the original prototype lose their proper length and width ratios when stretched to fill the length of their corresponding design elements. Doing so made the pictures look weird and decreased the perceived quality of the interface. As a result, I resized the pictures so that they were proportional and used a black background to fill in the empty space. This black background is common in other media platforms to depict extra space that has not been taken up by an image. 
 
+Original Prototype
 ![originalproto](https://drive.google.com/uc?id=12OjOP-scnxi1SkikCzqAQ5pxiZhwXmPD)
+
+Revised Prototype
+![imageplusdescription](https://drive.google.com/uc?id=1pprAiZpQLMzD9woOh9ygusIjoT-ZfkB8)
+
 
 
 Please submit one page documentation that contains your high-fidelity prototype:

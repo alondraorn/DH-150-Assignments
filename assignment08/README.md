@@ -32,7 +32,7 @@ This high-fidelity prototype supports the following tasks:
 
 - one image of 3 - 5 wireframes + description about why you did what you did
 
-![originalproto](https://drive.google.com/uc?id=1pprAiZpQLMzD9woOh9ygusIjoT-ZfkB8)
+![imageplusdescription](https://drive.google.com/uc?id=1pprAiZpQLMzD9woOh9ygusIjoT-ZfkB8)
 
 
 

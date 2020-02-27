@@ -1,5 +1,5 @@
 
-# DH 150: Assignmnent 08 by Josh Mimura
+# DH 150: Assignment 08 by Josh Mimura
 
 ## Description
 

@@ -13,8 +13,8 @@ This high-fidelity prototype supports the following tasks:
 
 1) Check scores 
   - check today's UCLA scores
-  - view the game summary of an ongoing game
   - check tomorrow's UCLA scores
+  - view the game summary of an ongoing game
   - view the game summary of a past game
   - view the game summary of a future game
 
@@ -32,6 +32,7 @@ This high-fidelity prototype supports the following tasks:
 
 - one image of 3 - 5 wireframes + description about why you did what you did
 
+![originalproto](https://drive.google.com/uc?id=1pprAiZpQLMzD9woOh9ygusIjoT-ZfkB8)
 
 
 
@@ -60,6 +61,9 @@ The basic color scheme I use is a soft, dark blue, a kind, mustard yellow, white
 
 
 ## Wireflow Image
+
+
+
 
 ## Link to Prototype
 

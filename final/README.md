@@ -26,12 +26,16 @@ After my personal evaluations, I conducted user testing on the UCLA Bruins app t
 
 ## 5) User research [contextual inquiry, assignment04]: Summary and link to your assignment folder
 
-[Read more](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment04)
+After usability testing, I engaged in broader contextual research on sports apps and sports app users. The goal of this contextual inquiry was to explore the environmental, social, and physical context in which users of mobile sports apps operate, which will give us insight into how mobile sports apps, such as the UCLA Bruins Mobile App, can be better designed to restore the strength of the sports community. From my contextual inquiry, I learned that sports app users prioritize efficiency and accessibility above all else. They want an app that serves as a quick referencing tool for sports news. I also learned that sports app users tend to interact with other sports fans through other apps like Twitter and Facebook, rather than sports apps themselves. Click [Here](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment04) for more information on the contexual inquiry. 
 
 
 ## 6) UX storytelling [persona+scenario, assignment05] Summary and link to your assignment folder
 
-[Read more](https://drive.google.com/drive/folders/18H1YRk9csa9Zj2PQPTGLuYSb8wXV8EVO?usp=sharing)
+Based on my understanding of sports app users, I developed three personas and scenarios that depicted archetypal users of the UCLA Bruins app and vivified their typical interaction with the app. Brad represented the busy user who only used the app to check scores during his packed day. His primary challenge was overcoming accesibility and efficiency issues with the current app. Corbin had more time to spend on the app and would benefit from a new team profile interface feature. Velma's experience on the UCLA Bruins app was quite isolated, as there was no way to share sports content with her friends. However, with a shareability feature, Velma is able to interact with other members of the sports community through the app. For detailed persona profiles, click here. 
+
+
+
+[Read more](https://drive.google.com/open?id=1BkhKiJj7zESs3z-lOGtVp3-dHYXIVyu4CPF9qK0farA)
 
 
 ## Wireframe and graphic design element variation [assignment07 + part of 08]

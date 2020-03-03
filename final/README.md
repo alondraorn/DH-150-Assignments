@@ -31,11 +31,13 @@ After usability testing, I engaged in broader contextual research on sports apps
 
 ## 6) UX storytelling [persona+scenario, assignment05] Summary and link to your assignment folder
 
-Based on my understanding of sports app users, I developed three personas and scenarios that depicted archetypal users of the UCLA Bruins app and vivified their typical interaction with the app. Brad represented the busy user who only used the app to check scores during his packed day. His primary challenge was overcoming accesibility and efficiency issues with the current app. Corbin had more time to spend on the app and would benefit from a new team profile interface feature. Velma's experience on the UCLA Bruins app was quite isolated, as there was no way to share sports content with her friends. However, with a shareability feature, Velma is able to interact with other members of the sports community through the app. For detailed persona profiles, click here. 
+Based on my understanding of sports app users, I developed three personas and scenarios that depicted archetypal users of the UCLA Bruins app and vivified their typical interaction with the app. Brad represented the busy user who only used the app to check scores during his packed day. His primary challenge was overcoming accesibility and efficiency issues with the current app. Corbin had more time to spend on the app and would benefit from a new team profile interface feature. Velma's experience on the UCLA Bruins app was quite isolated, as there was no way to share sports content with her friends. However, with a shareability feature, Velma is able to interact with other members of the sports community through the app. For detailed persona profiles, [click here.](https://drive.google.com/open?id=1BkhKiJj7zESs3z-lOGtVp3-dHYXIVyu4CPF9qK0farA)
 
+![persona1](https://drive.google.com/open?id=1F2eW6xi0eY7_3vBM74gkxtLlDKKQqaGm)
 
+![persona2](https://drive.google.com/open?id=1-MWes1sSxqGwlNXGNK7tXTvtZv_48x_J)
 
-[Read more](https://drive.google.com/open?id=1BkhKiJj7zESs3z-lOGtVp3-dHYXIVyu4CPF9qK0farA)
+![persona3](https://drive.google.com/open?id=16mBzXX2jREAgBVK4rQmkszAVLx7LVahe)
 
 
 ## Wireframe and graphic design element variation [assignment07 + part of 08]

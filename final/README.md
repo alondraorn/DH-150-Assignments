@@ -7,7 +7,9 @@
 
 My DH 150 project analyzes and improves upon several design features of the UCLA Bruins Sports App. The project consists of several methods of evaluation from task-based testing to contextual inquiries. The goal of this project is to understand how the design of the UCLA Bruins app helps or hinders the apps usability and how it can be modified to increase interaction within the sports community.
 
-## Clear design statement: What is the issue and Why do you think it is important to resolve that issue by your project? 
+## Clear design statement: What is the issue and Why do you think it is important to resolve that issue by your project?
+
+After a series of evaluation and testing, I determined that the UCLA Bruins app lacks in two main areas. First, the UCLA Bruins app needs to be quicker and more easily accessible. These attributes are extremely important to sports app users, who are usually busy and don't have time to surf the web for their sports news. Second, the UCLA Bruins app can do a better job of connecting users within the sports community. The sports community has lost some of its cohesion with the rise of digital technology, but if digital resources can incorporate features that spark interaction between users, the social cohesion of this community can be restored. 
 
 ## Competitor analysis [assignment01 & 02]: Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 

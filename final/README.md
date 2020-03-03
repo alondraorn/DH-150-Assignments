@@ -16,6 +16,8 @@ website-01 | website-02
 
 ![espn](https://cms.qz.com/wp-content/uploads/2015/02/img_2550.png?w=350&h=621&crop=1&strip=all&quality=75) | ![thescore](https://www.imore.com/sites/imore.com/files/styles/medium/public/field/image/2017/03/thescore-march-madness-screens-02.jpg?itok=OAczHxEJ)
 
+Read more https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment01
+
 ## 5) User research [contextual inquiry, assignment04]: Summary and link to your assignment folder
 
 ## 6) UX storytelling [persona+scenario, assignment05] Summary and link to your assignment folder

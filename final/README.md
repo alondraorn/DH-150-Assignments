@@ -13,11 +13,14 @@ After a series of evaluation and testing, I determined that the UCLA Bruins app 
 
 ## Competitor analysis [assignment01 & 02]: Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
-website-01 | website-02
------------|------------
-![espn](https://cms.qz.com/wp-content/uploads/2015/02/img_2550.png?w=350&h=621&crop=1&strip=all&quality=75) | ![thescore](https://www.imore.com/sites/imore.com/files/styles/medium/public/field/image/2017/03/thescore-march-madness-screens-02.jpg?itok=OAczHxEJ)
+I first conducted a hueristic evaluation of the UCLA Bruins App to analyze its initial design. Among other things, I found that the app had several inefficient interfaces with extraneous information. I also found that navigation was difficult because the app featured two menus, one at the bottom and a sidebar menu. Most notably, I noticed that there was no feature on the app that allows sports app users to interact with each other. The UCLA Bruins app had some strengths though, such as allowing users to personalize their experience by subscribing to specific sports. Feel free to read more about my heuristic evaluation [Here.](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment01)
 
-[Read more](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment01)
+Part of my initial valuation of the app involved comparing it to other sports apps. The two main competitors to the UCLA Bruins app are the ESPN sports app and The Score app. These apps provide sports news on worldwide sports, whereas the UCLA Bruins app only covers UCLA sports. Nevertheless, these two competitors serve as good reference points when evaluating the UCLA Bruins app. They featured more efficient and intuitive interfaces which informed some of my design choices in my final prototype. 
+
+ESPN App | The Score | UCLA Bruins App
+-----------|------------
+![espn](https://cms.qz.com/wp-content/uploads/2015/02/img_2550.png?w=350&h=621&crop=1&strip=all&quality=75) | ![thescore](https://www.imore.com/sites/imore.com/files/styles/medium/public/field/image/2017/03/thescore-march-madness-screens-02.jpg?itok=OAczHxEJ) | ![thescore](https://drive.google.com/uc?id=1Fy19fF2hppUzImkkNOoRnHCgwnkyjXgn)
+
 
 ## 5) User research [contextual inquiry, assignment04]: Summary and link to your assignment folder
 

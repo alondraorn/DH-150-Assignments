@@ -13,7 +13,6 @@ My DH 150 project analyzes and improves upon several design features of the UCLA
 
 website-01 | website-02
 -----------|------------
-
 ![espn](https://cms.qz.com/wp-content/uploads/2015/02/img_2550.png?w=350&h=621&crop=1&strip=all&quality=75) | ![thescore](https://www.imore.com/sites/imore.com/files/styles/medium/public/field/image/2017/03/thescore-march-madness-screens-02.jpg?itok=OAczHxEJ)
 
 Read more https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment01

@@ -5,7 +5,7 @@
 
 ## Introduction: a brief information about the project. What is the project about? The motivation of the project and possible contribution.
 
-My DH 150 project analyzes and improves upon several design features of the UCLA Bruins Sports App. The project consists of several methods of evaluation from task-based testing to contextual inquiries. The goal of this project is to understand how the design of the UCLA Bruins app helps or hinders the apps usability and how it can be modified to increase interaction within the sports community.
+My DH 150 project analyzes and improves upon several design features of the UCLA Bruins Sports App. I chose to evaluate the UCLA Bruin mobile app because it cultivates and empowers the UCLA sports community. For sports enthusiasts like me, the UCLA Bruin app allows users to access sports scores, buy tickets, and watch highlights. The project consists of several methods of evaluation from task-based testing to contextual inquiries. The goal of this project is to understand how the design of the UCLA Bruins app helps or hinders the apps usability and how it can be modified to increase interaction within the sports community. This project will contribute to the UCLA sports community by adding features to the UCLA Bruins App that are more efficient, accessible, and allow for interaction between sports fans. 
 
 ## Clear design statement: What is the issue and Why do you think it is important to resolve that issue by your project?
 

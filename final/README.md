@@ -19,20 +19,37 @@ website-01 | website-02
 
 ## 5) User research [contextual inquiry, assignment04]: Summary and link to your assignment folder
 
+[Read more](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment04)
+
+
 ## 6) UX storytelling [persona+scenario, assignment05] Summary and link to your assignment folder
+
+[Read more](https://drive.google.com/drive/folders/18H1YRk9csa9Zj2PQPTGLuYSb8wXV8EVO?usp=sharing)
+
 
 ## Wireframe and graphic design element variation [assignment07 + part of 08]
 
+[Read more](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment07)
+
+[Read more](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment08)
+
+
 ## Low-fidelity prototype (wireflow, assignment07) Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
+[Read more](https://drive.google.com/drive/folders/1tcwNYveI5C3EWQ6WZwDfpvzHK5Gomxmp?usp=sharing)
+
+
 ## High-fidelity prototype (functional/interactive prototype, assignment08) Summary statement and link to or an embedded prototype
+
+[Read more](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment08)
+
 
 ## Optional evaluation and revision history including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
 ## Pitch video 
 
-[i[videolink](https://www.youtube.com/watch?v=hTM_WAiioQU&t=683s)
-[![THE-ALT-TEXT](https://www.youtube.com/watch?v=hTM_WAiioQU&t=683s/0.jpg)](https://www.youtube.com/watch?v=hTM_WAiioQU&t=683s "ALT-TEXT")
+[videolink](https://www.youtube.com/watch?v=hTM_WAiioQU&t=683s)
+
 
 
 ## 11) Conclusion: what did you learn throughout the process?

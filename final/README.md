@@ -32,5 +32,7 @@ website-01 | website-02
 ## Pitch video 
 
 [i[videolink](https://www.youtube.com/watch?v=hTM_WAiioQU&t=683s)
+[![THE-ALT-TEXT](https://www.youtube.com/watch?v=hTM_WAiioQU&t=683s/0.jpg)](https://www.youtube.com/watch?v=hTM_WAiioQU&t=683s "ALT-TEXT")
+
 
 ## 11) Conclusion: what did you learn throughout the process?

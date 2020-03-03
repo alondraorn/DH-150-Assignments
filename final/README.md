@@ -14,7 +14,7 @@ My DH 150 project analyzes and improves upon several design features of the UCLA
 
 ![espn](https://cms.qz.com/wp-content/uploads/2015/02/img_2550.png?w=350&h=621&crop=1&strip=all&quality=75)
 
-![thescore](urlofimage)
+![thescore](https://www.imore.com/sites/imore.com/files/styles/medium/public/field/image/2017/03/thescore-march-madness-screens-02.jpg?itok=OAczHxEJ)
 
 ## 5) User research [contextual inquiry, assignment04]: Summary and link to your assignment folder
 
@@ -29,4 +29,5 @@ My DH 150 project analyzes and improves upon several design features of the UCLA
 ## Optional evaluation and revision history including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
 ## Pitch video 
-11) Conclusion: what did you learn throughout the process?
+
+## 11) Conclusion: what did you learn throughout the process?

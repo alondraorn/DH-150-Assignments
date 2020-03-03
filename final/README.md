@@ -21,6 +21,13 @@ ESPN App | The Score | UCLA Bruins App
 -----------|------------
 ![espn](https://cms.qz.com/wp-content/uploads/2015/02/img_2550.png?w=350&h=621&crop=1&strip=all&quality=75) | ![thescore](https://www.imore.com/sites/imore.com/files/styles/medium/public/field/image/2017/03/thescore-march-madness-screens-02.jpg?itok=OAczHxEJ) | ![thescore](https://drive.google.com/uc?id=1Fy19fF2hppUzImkkNOoRnHCgwnkyjXgn)
 
+After my personal evaluations, I conducted user testing on the UCLA Bruins app to understand the extent to which the app's design facilitates or hinders a user's ability to complete routine tasks. I tasked the user with three of the app's typical functions including checking past scores, purchasing tickets to an upcoming ebent, and subscribing to their favorite sport... 
+
+
+Given these concerns, I will conduct a usability test to understand the extent to which the app's design facilitates or hinders a user's ability to complete routine tasks. The test will try to capture the effectiveness, efficiency, and satisfaction of the UCLA Bruins mobile app. Task 1 will ask the user to check past basketball game scores and future event dates. Here, I will try to understand how the user interacts with the inconsistencies and inflexibilities in the scheduling interface. This task will also give insight into how much recall this ordinary task demands from the user. Task 2 will test the user's ability to efficiently purchase tickets for an upcoming sports event. This task will illuminate the degree to which the cluttered interfaces and weak error processing systems will affect the user's ability to buy tickets, a central function of the UCLA Bruins app. Lastly, Task 3 asks the user 
+
+With regards to the UCLA Bruins mobile app, I learned that it has major design flaws that make its use cumbersome and frustrating for the user. My participant was able to complete each task, but she expressed difficulty in doing so both through her verbal indications during the test and in the post-test questionnaire, where she describes the app as cheap, intimidating, and unprofessional. She noted that the lack of internal consistency and cluttered interfaces of the app made it hard to navigate and perform basic functions of the app. She also expressed concern over the lack of intuitive design, particularly in the calendar interface, in which the user must click on the calendar icon each time she wanted to switch dates. Overall, the participant's struggle to complete the tasks and her negative questionnaire responses strongly suggest that the UCLA Bruins mobile app has much room for improvement.
+
 
 ## 5) User research [contextual inquiry, assignment04]: Summary and link to your assignment folder
 

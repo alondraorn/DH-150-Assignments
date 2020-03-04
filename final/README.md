@@ -1,17 +1,19 @@
 
 # DH 150 Assignment 9: Josh Mimura
 
+***
+
 ## UCLA Bruins App UX Project, Joshua Mimura
 
-## Introduction: a brief information about the project. What is the project about? The motivation of the project and possible contribution.
+## Introduction
 
 My DH 150 project analyzes and improves upon several design features of the UCLA Bruins Sports App. I chose to evaluate the UCLA Bruin mobile app because it cultivates and empowers the UCLA sports community. For sports enthusiasts like me, the UCLA Bruin app allows users to access sports scores, buy tickets, and watch highlights. The project consists of several methods of evaluation from task-based testing to contextual inquiries. The goal of this project is to understand how the design of the UCLA Bruins app helps or hinders the apps usability and how it can be modified to increase interaction within the sports community. This project will contribute to the UCLA sports community by adding features to the UCLA Bruins App that are more efficient, accessible, and allow for interaction between sports fans. 
 
-## Clear design statement: What is the issue and Why do you think it is important to resolve that issue by your project?
+## Design Statement
 
 After a series of evaluation and testing, I determined that the UCLA Bruins app lacks in two main areas. First, the UCLA Bruins app needs to be quicker and more easily accessible. These attributes are extremely important to sports app users, who are usually busy and don't have time to surf the web for their sports news. Second, the UCLA Bruins app can do a better job of connecting users within the sports community. The sports community has lost some of its cohesion with the rise of digital technology, but if digital resources can incorporate features that spark interaction between users, the social cohesion of this community can be restored. 
 
-## Competitor analysis [assignment01 & 02]: Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
+## Competitor Analysis and Heuristic Evaluation
 
 I first conducted a heuristic evaluation of the UCLA Bruins App to analyze its initial design. Among other things, I found that the app had several inefficient interfaces with extraneous information. I also found that navigation was difficult because the app featured two menus, one at the bottom and a sidebar menu. Most notably, I noticed that there was no feature on the app that allows sports app users to interact with each other. The UCLA Bruins app had some strengths though, such as allowing users to personalize their experience by subscribing to specific sports. Feel free to read more about my heuristic evaluation [Here.](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment01)
 
@@ -24,12 +26,12 @@ ESPN App | The Score | UCLA Bruins App
 After my personal evaluations, I conducted user testing on the UCLA Bruins app to understand the extent to which the app's design facilitates or hinders a user's ability to complete routine tasks. I tasked the user with three of the app's typical functions including checking past scores, purchasing tickets to an upcoming event, and subscribing to their favorite sport. I learned that many design elements of the UCLA Bruins app make its use cumbersome and frustrating for the user. While the participant was able to complete each task, she expressed difficulty in doing so. I used this user testing to inform which aspects of the UCLA Bruins app I would improve on. You can read more about the usability testing process [Here](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment02). Also, you can view the pilot usability test [Here.](https://drive.google.com/file/d/1yiEDN1tqZ3sDmb-SoFgJF1S73n4gDxAl/view?usp=sharing)
 
 
-## 5) User research [contextual inquiry, assignment04]: Summary and link to your assignment folder
+## 5) Contextual Inquiry
 
 After usability testing, I engaged in broader contextual research on sports apps and sports app users. The goal of this contextual inquiry was to explore the environmental, social, and physical context in which users of mobile sports apps operate, which will give us insight into how mobile sports apps, such as the UCLA Bruins Mobile App, can be better designed to restore the strength of the sports community. From my contextual inquiry, I learned that sports app users prioritize efficiency and accessibility above all else. They want an app that serves as a quick referencing tool for sports news. I also learned that sports app users tend to interact with other sports fans through other apps like Twitter and Facebook, rather than sports apps themselves. Click [Here](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment04) for more information about the contextual inquiry and click [Here](https://drive.google.com/file/d/12hmwDUsKzO8atayE8X7dIVw-grL8jQU6/view?usp=sharing) for an audio file of the inquiry. 
 
 
-## 6) UX storytelling [persona+scenario, assignment05] Summary and link to your assignment folder
+## 6) UX storytelling: Personas, Journey Maps, Scenarios
 
 Based on my understanding of sports app users, I developed three personas and scenarios that depicted archetypal users of the UCLA Bruins app and vivified their typical interaction with the app. Brad represented the busy user who only used the app to check scores during his packed day. His primary challenge was overcoming accessibility and efficiency issues with the current app. Corbin had more time to spend on the app and would benefit from a new team profile interface feature. Velma's experience on the UCLA Bruins app was quite isolated, as there was no way to share sports content with her friends. However, with a shareability feature, Velma is able to interact with other members of the sports community through the app. For detailed persona profiles, click [Here.](https://drive.google.com/open?id=1BkhKiJj7zESs3z-lOGtVp3-dHYXIVyu4CPF9qK0farA) For written scenarios, click [Here.](https://drive.google.com/open?id=1Lj-iBppATrlB1HhEf304bsG7kUPglmZXOQABD4-dDQs)
 
@@ -46,7 +48,7 @@ Velma's Journey Map
 ![persona3](https://drive.google.com/uc?id=16mBzXX2jREAgBVK4rQmkszAVLx7LVahe)
 
 
-## Wireframe and graphic design element variation [assignment07 + part of 08]
+## Wireframe and Graphic Design Accessibility 
 
 Before beginning prototype development, I played around with possible color schemes that maximized accessibility. Specifically, I was concerned with creating color schemes that featured contrast ratios higher than 4.5:1. I proceeded to develop 3 sample interfaces that featured a different color scheme that met accessibility requirements. Click [Here](https://joshmimura.github.io/DH-150-Assignments/assignment07/color-JOSHMIMURA.html) to view my samples. 
 
@@ -54,7 +56,7 @@ Soon, I began on initial wireframes for my low-fidelity prototype. I first start
 
 ![wireframes](https://drive.google.com/uc?id=10ICRGV3a2UwTjt1YHmROaufHg5LuRaqG)
 
-## Low-fidelity prototype (wireflow, assignment07) Summary and link to the sketches (may contains the multiple versions and evaluation history)
+## Low-fidelity Prototyping
 
 Starting with my initial set of wireframes, I created a wireflow interaction for each of the three features I had decided to incorporate into the app: 1) a more efficient score interface, 2) a team profile interface, and 3) a shareability feature. 
 
@@ -83,7 +85,7 @@ Next, I used the comments and critiques generated in the user pathway test to re
 For more information on the low-fidelity prototyping process, see [Here](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment06)
 
 
-## High-fidelity prototype (functional/interactive prototype, assignment08) Summary statement and link to or an embedded prototype
+## High-fidelity Prototyping 
 
 Now that I had developed a better sense of the interaction flow of my prototype, I turned my attention to the high-fidelity aspects of my design. Through Figma, I refined and brought my low-fidelity interface to life by adding color, interaction features, dynamic elements, and other graphical interface components. I was sure to make the interaction flow completely circular with no dead ends and paid particular attention to making navigation simple and intuitive. Below are the four main high-fidelity menu interfaces. 
 
@@ -113,7 +115,7 @@ The high-fidelity prototype supports several tasks:
 
 Click [Here](https://www.figma.com/proto/TeHkllEWxhcFRXV4aftnK2/UCLA-Bruins-App?node-id=148%3A0&scaling=scale-down) to access the interactive prototype. You can read more about the high-fidelity prototyping process [Here.](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment08)
 
-## Optional evaluation and revision history including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+## Prototype Revision Analysis
 
 Throughout the prototyping process, I cycled through several versions of each interface. See above for the multiple versions of the low-fidelity prototype. Below are the two main versions of the high-fidelity prototype. After receiving comments and suggestions from my peers and professor, I made several changes regarding the color scheme, heading format, edge radius, and thumbnails. You can read more about these particular adjustments [Here](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment08). 
 
@@ -123,11 +125,11 @@ Initial
 Final 
 ![wirepro](https://drive.google.com/uc?id=1pprAiZpQLMzD9woOh9ygusIjoT-ZfkB8)
 
-## Pitch video 
+## Video Pitch  
 
 [videolink](https://www.youtube.com/watch?v=hTM_WAiioQU&t=683s)
 
-## 11) Conclusion: what did you learn throughout the process?
+## 11) Conclusion
 
 I learned several things from my DH 150 UX project on the UCLA Bruins app:
 

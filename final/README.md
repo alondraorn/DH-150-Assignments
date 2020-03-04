@@ -66,13 +66,13 @@ Starting with my initial set of wireframes, I created a wireflow interaction for
 
 After developing the initial prototype, I conducted a user pathway test. In this test, the participant tried to follow the flow of my low-fidelity prototype. The goal of this phase was to understand the strengths and weaknesses in the initial interface pathway and how it could be improved. [Here](https://drive.google.com/file/d/1Hu164L5sLFb_K0M_hLI1YcOh7gIdVY8T/view?usp=sharing) is a link to the user pathway test. Below are the marked-up pathways from the user pathway test. 
 
-![p11](https://drive.google.com/uc?id=1CMslQ3zI77jQydQmyzCeaRhSHE4j4a6Q)
+![p11](https://drive.google.com/uc?id=1GXwFXiOdyjEZhBwWKIKcZchlSqoBDDN9)
 
-![p22](https://drive.google.com/uc?id=1E0JC4b4ky6UFjK95tDeY7jFQ_DEHuLX5)
+![p22](https://drive.google.com/uc?id=1tB2Q5RgAeMVA038D9NfvzFT-zfjmzuqn)
 
-![p33](https://drive.google.com/uc?id=1w4OdgpePd2UoMKEpp_z2HM2iisATVhHU)
+![p33](https://drive.google.com/uc?id=1xeVLey8yZltWsejRrlNFy_2LOXBhTGpo)
 
-Next, I used the comments and critiques generated in the user pathway test to refine the low-fidelity prototype. For instance, the participant was unable to return to the home page in one of my feature pathways, so I added a cancel button. Below is the set of pathways with my revision notes. 
+Next, I used the comments and critiques generated in the user pathway test to refine the low-fidelity prototype. For instance, the participant was unable to return to the home page in one of my feature pathways, so I added a cancel button. Below are the pathways with my revision notes. 
 
 ![p111](https://drive.google.com/uc?id=1YWZ8XUkJBPj2dfahFdUCK-bQ6UnoY0ZQ)
 

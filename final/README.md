@@ -52,7 +52,7 @@ Before beginning prototype development, I played around with possible color sche
 
 Soon, I began on initial wireframes for my low-fidelity prototype. I first started by designing four main menu screens and the new team profile interface. These wireframes were not detailed, but they provided me with a consistent interface structure for the rest of my low-fidelity prototype.
 
-![wireframes](https://drive.google.com/open?id=10ICRGV3a2UwTjt1YHmROaufHg5LuRaqG)
+![wireframes](https://drive.google.com/uc?id=10ICRGV3a2UwTjt1YHmROaufHg5LuRaqG)
 
 ## Low-fidelity prototype (wireflow, assignment07) Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
@@ -85,12 +85,12 @@ For more information on the low-fidelity prototyping process, see [Here](https:/
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08) Summary statement and link to or an embedded prototype
 
-Now that I had developed a better sense of the interaction flow of my prototype, I turned my attention to the high-fidelity aspects of my design. Through Figma, I refined and brought my low fidelity interface to life by adding color, interaction features, dynamic elements, and other graphical interface components. I was sure to make the interaction flow completely circular with no dead ends and paid particular attention to making navigation simple and intuitive. Below are the four main high-fidelity menu interfaces. 
+Now that I had developed a better sense of the interaction flow of my prototype, I turned my attention to the high-fidelity aspects of my design. Through Figma, I refined and brought my low-fidelity interface to life by adding color, interaction features, dynamic elements, and other graphical interface components. I was sure to make the interaction flow completely circular with no dead ends and paid particular attention to making navigation simple and intuitive. Below are the four main high-fidelity menu interfaces. 
 
 ![wirepro](https://drive.google.com/uc?id=1pprAiZpQLMzD9woOh9ygusIjoT-ZfkB8)
 
 
-The high fidelity prototype supports several tasks: 
+The high-fidelity prototype supports several tasks: 
 
 1. Check scores
 - check today's UCLA scores
@@ -111,7 +111,7 @@ The high fidelity prototype supports several tasks:
 
 ![wireflowhfp](https://drive.google.com/uc?id=1P0aFHxUl4snGYSjLBxWXID0UlnpwqHEl)
 
-Click [Here](https://www.figma.com/proto/TeHkllEWxhcFRXV4aftnK2/UCLA-Bruins-App?node-id=148%3A0&scaling=scale-down) to access the interactive prototype. You can read more about the high fidelity prototyping process [Here.](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment08)
+Click [Here](https://www.figma.com/proto/TeHkllEWxhcFRXV4aftnK2/UCLA-Bruins-App?node-id=148%3A0&scaling=scale-down) to access the interactive prototype. You can read more about the high-fidelity prototyping process [Here.](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment08)
 
 ## Optional evaluation and revision history including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 

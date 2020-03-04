@@ -127,7 +127,7 @@ Final
 
 ## Video Pitch  
 
-[videolink](https://www.youtube.com/watch?v=hTM_WAiioQU&t=683s)
+[Link](https://youtu.be/uzrfAU4uTZA)
 
 ## 11) Conclusion
 

@@ -48,22 +48,80 @@ Velma's Journey Map
 
 ## Wireframe and graphic design element variation [assignment07 + part of 08]
 
-[Read more](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment07)
+Before beginning prototype development, I played around with possible color schemes that maximized accessibility. Specifically, I was concerned with creating color schemes that featured contrast ratios higher than 4.5:1. I proceeded to develope 3 sample interfaces that featured a different color scheme that met accessibility requirements. Click [Here](https://joshmimura.github.io/DH-150-Assignments/assignment07/color-JOSHMIMURA.html) to view my samples. 
 
-[Read more](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment08)
+Soon, I began on initial wireframes for my low-fidelity prototype. I first started by designing four main menu screens and the new team profile interface. These wireframes were not detailed, but they provided me with a consistent interface structure for the rest of my low-fidelity prototype.
 
+![wireframes](https://drive.google.com/open?id=10ICRGV3a2UwTjt1YHmROaufHg5LuRaqG)
 
 ## Low-fidelity prototype (wireflow, assignment07) Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
-[Read more](https://drive.google.com/drive/folders/1tcwNYveI5C3EWQ6WZwDfpvzHK5Gomxmp?usp=sharing)
+Starting with my initial set of wireframes, I created a wireflow interaction for each of the three features I had decided to incorporate into the app: 1) a more efficient score interface, 2) a team profile interface, and 3) a shareability feature. 
+
+![p1](https://drive.google.com/uc?id=1HMcEcASC9eIW3g_YEFGHC4XuBU1gZ3fw)
+
+![p2](https://drive.google.com/uc?id=1AzDvicKs3EhuOOw1Vtsov6_AF9mDQTx-)
+
+![p3](https://drive.google.com/uc?id=1QM1RgynnC_kRrUW-IX0oQbPDnvC8cVru)
+
+After developing the initial prototype, I conducted a user pathway test. In this test, the participant tried to follow the flow of my low-fidelity prototype. The goal of this phase was to understand the strengths and weaknesses in the initial interface pathway and how it could be improved. Here is a link to the user pathway test. Below are the marked-up pathways from the user pathway test. 
+
+![p11](https://drive.google.com/uc?id=1CMslQ3zI77jQydQmyzCeaRhSHE4j4a6Q)
+
+![p22](https://drive.google.com/uc?id=1E0JC4b4ky6UFjK95tDeY7jFQ_DEHuLX5)
+
+![p33](https://drive.google.com/uc?id=1w4OdgpePd2UoMKEpp_z2HM2iisATVhHU)
+
+Next, I used the comments and critiques generated in the user pathway test to refine the low-fidelity prototype. For instance, the participant was unable to return to the home page in one of my feature pathways, so I added a cancel button. Below is the set of pathways with my revision notes. 
+
+![p111](https://drive.google.com/uc?id=1YWZ8XUkJBPj2dfahFdUCK-bQ6UnoY0ZQ)
+
+![p222](https://drive.google.com/uc?id=1ssDOQSvFTC2afscoq_GaYpq31pal322Y)
+
+![p333](https://drive.google.com/uc?id=12LXozMZs2_OQOxW8go3dlDQ0-oIYGfEy)
+
+For more information on the low-fidelity prototyping process, see [Here](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment06)
 
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08) Summary statement and link to or an embedded prototype
 
-[Read more](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment08)
+Now that I had developed a better sense of the interaction flow of my prototype, I turned my attention to the high-fidelity aspects of my design. Through Figma, I refined and brought my low fidelity interface to life by adding color, interaction features, dynamic elements, and other graphical interface components. I was sure to make the interaction flow completely circular with no dead ends and paid particular attention to making navigation simple and intuitive. Below are the four main high-fidelity menu interfaces. 
 
+![wirepro](https://drive.google.com/uc?id=1pprAiZpQLMzD9woOh9ygusIjoT-ZfkB8)
+
+
+The high fidelity prototype supports several tasks: 
+
+1. Check scores
+- check today's UCLA scores
+- check tomorrow's UCLA scores
+- view the game summary of an ongoing game
+- view the game summary of a past game
+- view the game summary of a future game
+
+2. Share audio or video content
+- browse video and audio media content
+- pause/play audio content
+- send media content to other mobile users via SMS text message
+
+3. Access team profile interface
+- view team profiles of UCLA football
+- access NOW, ROSTER, and SCHEDULE subinterfaces of UCLA football
+- view past performances, player statistics, and current rankings
+
+![wireflowhfp](https://drive.google.com/uc?id=1P0aFHxUl4snGYSjLBxWXID0UlnpwqHEl)
+
+Click [Here](https://www.figma.com/proto/TeHkllEWxhcFRXV4aftnK2/UCLA-Bruins-App?node-id=148%3A0&scaling=scale-down) to access the interactive prototype. You can read more about the high fidelity prototyping process [Here.](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment08)
 
 ## Optional evaluation and revision history including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+
+Throughout the protoyping process, I cycled through several versions of each interface. See above for the multiple versions of the low-fidelity prototype. Below are the two main versions of the high-fidelity prototype. After receiving comments and suggestions from my peers and professor, I made several changes regarding the color scheme, heading format, edge radius, and thumbnails. You can read more about these particular adjustments [Here](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment08). 
+
+Initial
+![wireproinit](https://drive.google.com/open?id=12OjOP-scnxi1SkikCzqAQ5pxiZhwXmPD)
+
+Final 
+![wirepro](https://drive.google.com/uc?id=1pprAiZpQLMzD9woOh9ygusIjoT-ZfkB8)
 
 ## Pitch video 
 

@@ -118,7 +118,7 @@ Click [Here](https://www.figma.com/proto/TeHkllEWxhcFRXV4aftnK2/UCLA-Bruins-App?
 Throughout the protoyping process, I cycled through several versions of each interface. See above for the multiple versions of the low-fidelity prototype. Below are the two main versions of the high-fidelity prototype. After receiving comments and suggestions from my peers and professor, I made several changes regarding the color scheme, heading format, edge radius, and thumbnails. You can read more about these particular adjustments [Here](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment08). 
 
 Initial
-![wireproinit](https://drive.google.com/open?id=12OjOP-scnxi1SkikCzqAQ5pxiZhwXmPD)
+![wireproinit](https://drive.google.com/uc?id=12OjOP-scnxi1SkikCzqAQ5pxiZhwXmPD)
 
 Final 
 ![wirepro](https://drive.google.com/uc?id=1pprAiZpQLMzD9woOh9ygusIjoT-ZfkB8)
@@ -127,6 +127,8 @@ Final
 
 [videolink](https://www.youtube.com/watch?v=hTM_WAiioQU&t=683s)
 
-
-
 ## 11) Conclusion: what did you learn throughout the process?
+
+
+
+

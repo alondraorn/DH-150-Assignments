@@ -64,7 +64,7 @@ Starting with my initial set of wireframes, I created a wireflow interaction for
 
 ![p3](https://drive.google.com/uc?id=1QM1RgynnC_kRrUW-IX0oQbPDnvC8cVru)
 
-After developing the initial prototype, I conducted a user pathway test. In this test, the participant tried to follow the flow of my low-fidelity prototype. The goal of this phase was to understand the strengths and weaknesses in the initial interface pathway and how it could be improved. Here is a link to the user pathway test. Below are the marked-up pathways from the user pathway test. 
+After developing the initial prototype, I conducted a user pathway test. In this test, the participant tried to follow the flow of my low-fidelity prototype. The goal of this phase was to understand the strengths and weaknesses in the initial interface pathway and how it could be improved. [Here](https://drive.google.com/file/d/1Hu164L5sLFb_K0M_hLI1YcOh7gIdVY8T/view?usp=sharing) is a link to the user pathway test. Below are the marked-up pathways from the user pathway test. 
 
 ![p11](https://drive.google.com/uc?id=1CMslQ3zI77jQydQmyzCeaRhSHE4j4a6Q)
 

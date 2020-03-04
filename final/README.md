@@ -129,6 +129,17 @@ Final
 
 ## 11) Conclusion: what did you learn throughout the process?
 
+I learned several things from my DH 150 UX project on the UCLA Bruins app:
+
+User-based Evidence: I learned that understanding user experience means trying to position yourself as best you can inside the users mind rather than speculating as to what users might prefer. It is easy to project your opinions and understandings of design concepts onto users, but the designer is always biased. The only way to make constructive design choices is to actually produce data based on a user's behavior and to use this data to better understand the user's experience. 
+
+Graphical Interface Accessibility: I learned that graphical interface choices are much more of a science than a preference. I previously did not know anything about color schemes or geometric nudging, but this project has taught me that everything on the interface must be deliberate and must meet certain accessibility standards. I now know that colors that have a text-background relationship must have a contrast ratio greater than 4.5:1 for them to be distinguished clearly for all users. 
+
+Tradeoffs: UX design is all about tradeoffs. In choosing whether or not to include certain information into my designs, I was constantly faced with dilemmas: do I add more information and make the interface slightly more cluttered or do I retain the minimalist look at the expense of the interfaces informativeness. In the end, it was about finding the right balance in every decision I made. Thus, I learned that you cannot have everything and the tradeoffs you make will largely depend on the function of certain elements and the purpose of your app (e.g. I prioritized information over minimalism on the team profile interface because this interface is meant to inform the user on a team's season performance).
+
+Don't Use Pen: Prototyping and wireframe development is full of mistakes, redos, and tinkering. They involve a large amount of time crossing things out and modifying small things about the interface. I learned that these processes just take time and can be quite tedious, so the designer needs to become comfortable with making constant adjustments and never feeling fully comfortable with any given prototype. In sum, don't use a pen because the final product is never really final. 
+
+Importance of Internal Consistency: When developing the high-fidelity prototype, I realized that many of my design elements were not consistent. For example, some rectangles had a 90 degree edge radius while others had smooth edges. I noted that this inconsistency made my interfaces seem clunky and unprofessional. Thus, I learned that internal consistency can go a long way in increasing the legitimacy of you prototype. 
 
 
 

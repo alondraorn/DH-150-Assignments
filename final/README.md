@@ -82,7 +82,7 @@ Next, I used the comments and critiques generated in the user pathway test to re
 
 ![p333](https://drive.google.com/uc?id=12LXozMZs2_OQOxW8go3dlDQ0-oIYGfEy)
 
-For more information on the low-fidelity prototyping process, see [Here](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment06)
+For more information on the low-fidelity prototyping process, see [Here.](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment06)
 
 
 ## High-fidelity Prototyping 
@@ -117,7 +117,7 @@ Click [Here](https://www.figma.com/proto/TeHkllEWxhcFRXV4aftnK2/UCLA-Bruins-App?
 
 ## Prototype Revision Analysis
 
-Throughout the prototyping process, I cycled through several versions of each interface. (See above for the multiple versions of the low-fidelity prototype.) Below are the two main versions of the high-fidelity prototype. After receiving comments and suggestions from my peers and professor, I made several changes to my initial high-fidelity prototype regarding its color scheme, heading format, edge radius, and thumbnails. You can read more about these particular adjustments [Here.](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment08). 
+Throughout the prototyping process, I cycled through several versions of each interface. (See above for the multiple versions of the low-fidelity prototype.) Below are the two main versions of the high-fidelity prototype. After receiving comments and suggestions from my peers and professor, I made several changes to my initial high-fidelity prototype regarding its color scheme, heading format, edge radius, and thumbnails. You can read more about these particular adjustments [Here.](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment08)
 
 Initial
 ![wireproinit](https://drive.google.com/uc?id=12OjOP-scnxi1SkikCzqAQ5pxiZhwXmPD)

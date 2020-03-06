@@ -21,7 +21,7 @@ Part of my initial valuation of the app involved comparing it to other sports ap
 
 ESPN App | The Score | UCLA Bruins App
 -----------|------------
-![espn](https://cms.qz.com/wp-content/uploads/2015/02/img_2550.png?w=350&h=621&crop=1&strip=all&quality=75) | ![thescore](https://drive.google.com/uc?id=1kUYZwmon5XvM26_OcATbiqZurmerXPEG) | ![thescore](https://drive.google.com/uc?id=1Fy19fF2hppUzImkkNOoRnHCgwnkyjXgn)
+![espn](https://drive.google.com/uc?id=1R-0xWsbhn4vkB04tsWrYomAXc3quhC1V) | ![thescore](https://drive.google.com/uc?id=1kUYZwmon5XvM26_OcATbiqZurmerXPEG) | ![thescore](https://drive.google.com/uc?id=1Fy19fF2hppUzImkkNOoRnHCgwnkyjXgn)
 
 After my personal evaluations, I conducted user testing on the UCLA Bruins app to understand the extent to which the app's design facilitates or hinders a user's ability to complete routine tasks. I tasked the user with three of the app's basic functions including checking past scores, purchasing tickets to an upcoming event, and subscribing to their favorite sport. I learned that many design elements of the UCLA Bruins app made its use cumbersome and frustrating for the user. While the participant was able to complete each task, she expressed difficulty in doing so. I used the user testing results to inform which aspects of the UCLA Bruins app I would improve on. You can read more about the usability testing process [Here](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment02). Also, you can view the pilot usability test [Here.](https://drive.google.com/file/d/1yiEDN1tqZ3sDmb-SoFgJF1S73n4gDxAl/view?usp=sharing)
 
